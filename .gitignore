@@ -1,0 +1,9 @@
+# Ignore all tempfiles
+.swp
+*~
+*.swp
+*.log
+*.cgi
+*.out
+.idea
+.DS_Store
