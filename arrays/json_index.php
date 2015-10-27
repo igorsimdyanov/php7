@@ -22,6 +22,7 @@
           method: 'POST',
           data: 'json=' + JSON.stringify(json)
         })
+        // В случае успешного получения ответа от сервера
         .done(function(msg){
           // Заменяем надпись Здравствуйте в поле p#is-hello
           $('#js-hello').html(msg);
