@@ -10,5 +10,5 @@
   $result .= "!";
 
   // Отдаем результат
-  echo $result;
+  echo htmlspecialchars($result);
 ?>

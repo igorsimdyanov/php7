@@ -1,5 +1,5 @@
-<?php ## Ïåðåìåøèâàíèå ñïèñêà.
-$concept = array("Banana", "Coffee", "Ice cream", "Throat");
-shuffle($concept);
-print_r($concept);
+<?php ## ÐŸÐµÑ€ÐµÐ¼ÐµÑˆÐ¸Ð²Ð°Ð½Ð¸Ðµ ÑÐ¿Ð¸ÑÐºÐ°.
+  $concept = ["Banana", "Coffee", "Ice cream", "Throat"];
+  shuffle($concept);
+  print_r($concept);
 ?>

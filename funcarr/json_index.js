@@ -1,6 +1,6 @@
 // Назначаем обработчики, только после полной загрузки  документа
 $(function(){
-  // Обработчик нажания на кнопку submit
+  // Обработчик нажатия на кнопку submit
   $('input[type=submit]').on('click', function(e){
     // Предотвращаем обычное поведение элемента
     e.preventDefault();
@@ -9,14 +9,6 @@ $(function(){
       name: $('input[name=name]').val(),
       family:  $('input[name=family]').val()
     }
-    // Экранируемые спец-символы
-    var map = {
-      '&': '&amp;',
-      '<': '&lt;',
-      '>': '&gt;',
-      '"': '&quot;',
-      "'": '&#039;'
-    };
     // Отправляем асинхронный POST-запрос по адресу
     // указанному в атрибуте action формы
     $.ajax({
@@ -27,11 +19,7 @@ $(function(){
     // В случае успешного получения ответа от сервера
     .done(function(msg){
       // Заменяем надпись Здравствуйте в поле p#is-hello
-      $('#js-hello').html(
-        msg.replace(/[&<>"']/g, function(m) {
-          return map[m];
-        })
-      );
+      $('#js-hello').html(msg);
     });
   });
 });

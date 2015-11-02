@@ -1,7 +1,7 @@
-<?php ## Ïåðåñå÷åíèå ìíîæåñòâ.
-$native = array("green", "red", "blue");
-$colors = array("red", "yellow", "green", "cyan", "black");
-$inter = array_intersect($colors, $native);
-print_r($inter);
-// Array([0]=>red  [2]=>green) 
+<?php ## ÐŸÐµÑ€ÐµÑÐµÑ‡ÐµÐ½Ð¸Ðµ Ð¼Ð½Ð¾Ð¶ÐµÑÑ‚Ð².
+  $native = ["green", "red", "blue"];
+  $colors = ["red", "yellow", "green", "cyan", "black"];
+  $inter = array_intersect($colors, $native);
+  print_r($inter);
+  // Array([0]=>red  [2]=>green) 
 ?>

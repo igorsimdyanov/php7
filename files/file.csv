@@ -1,0 +1,8 @@
+См. http://bugs.php.net/bug.php?id=12127;для проверки fgetcsv()
+Любимое (витаминизированное);345;9,15
+F12;Film;Джеймс Бонд. Золотой пистолет;2:00:15;680
+
+Who are you?;"It's okay, you're safe now.<br />
+I knew you'd save me.<br />
+I didn't save you, kid. You saved yourself"
+"с ""кавычками""";Слэш \ слэш;"""";апостроф ' апостроф

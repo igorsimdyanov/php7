@@ -1,7 +1,6 @@
-<?php ## Ïîëüçîâàòåëüñêàÿ ñîðòèðîâêà ñïèñêîâ.
-function fCmp($a, $b) { return strcmp($a, $b); }
-$tools = array("One", "Two", "Three", "Four");
-usort($tools, "fCmp");
-print_r($tools);
-// Array([0]=>Four [1]=>One [2]=>Three [3]=>Two)
+<?php ## ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ°Ñ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ° ÑÐ¿Ð¸ÑÐºÐ¾Ð².
+  $tools = ["One", "Two", "Three", "Four"];
+  usort($tools, function ($a, $b) { return strcmp($a, $b); });
+  print_r($tools);
+  // Array([0]=>Four [1]=>One [2]=>Three [3]=>Two)
 ?>

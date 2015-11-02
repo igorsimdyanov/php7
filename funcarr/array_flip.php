@@ -1,10 +1,10 @@
-<?php ## Îáðàùåíèå ìàññèâà.
-$names = array(
-  "Joel"   => "Silver", 
-  "Grant"  => "Hill", 
-  "Andrew" => "Mason",
-);
-$names = array_flip($names);
-print_r($names);
-// Array([Silver]=>Joel  [Hill]=>Grant  [Mason]=>Andrew)
+<?php ## ÐžÐ±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ Ð¼Ð°ÑÑÐ¸Ð²Ð°.
+  $names = [
+      "Joel"   => "Silver", 
+      "Grant"  => "Hill", 
+      "Andrew" => "Mason",
+    ];
+  $names = array_flip($names);
+  print_r($names);
+  // Array([Silver]=>Joel  [Hill]=>Grant  [Mason]=>Andrew)
 ?>

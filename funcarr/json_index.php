@@ -5,7 +5,6 @@
   <meta charset='utf-8'>
   <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="/json_index.js"></script>
-  </script>
 </head>
 <body>
   <p id='js-hello'>Здравствуйте!</p>
