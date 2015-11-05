@@ -1,0 +1,971 @@
+The Matrix Reloaded - Transcript
+
+######################################################################################
+# The Matrix Reloaded, The Matrix, and all related media, characters, and stories    #
+# are copyright 1999-2003 AOL Time Warner and Village Roadshow Pictures.             #
+# The transcript below contains parts of a script written by the Wachowski brothers  #
+# This transcript is provided for fans' enjoyment and reference and does not intend  #
+# copyright infringement. The entire content of this transcript is property of Larry #
+# and Andy Wachowski, AOL Time Warner, and Village Roadshow Pictures.                #
+# No claim is lain on the ownership of the words contained within this transcript    #
+# on the part of Matrix Community, furiosity, neozen, or GodspeeD.                   #
+#                                                                                    #
+# GIVE CREDIT WHERE CREDIT IS DUE. RETAIN THIS COMMENT BLOCK.                        #
+#                                                                                    #
+# The transcript is intended for teaching /educational purposes only. It falls under #
+# the U.S. Code 17/Sec. 107 - Limitations on exclusive rights: 'Fair Use'.           #
+# Notwithstanding the provisions of sections 106 and 106A, the fair use of a         #
+# copyrighted work, including such use by reproduction in copies or phonorecords or  #
+# by any other means specified by that section, for purposes such as criticism,      #
+# comment, news reporting, teaching (including multiple copies for classroom use),   #
+# scholarship, or research, is not an infringement of copyright.                     #  
+#                                                                                    #
+# [Thanks to http://www.screentalk.org/ for the above summary.]                      #
+######################################################################################
+
+*****************************************************************************
+* Brought to you by the Matrix Community: http://www.matrixcommunity.org/   *
+* Home of the Zion Mainframe. http://www.zionmainframe.net/                 *
+* Transcribed by: furiosity                                                 *
+*                                                                           *
+* Oracle & Architect transcripts by neozen                                  *
+* Merovingian transcript by GodspeeD                                        *
+* from http://www.matrixfans.net/                                           *
+*                                                                           *
+* These partial transcripts were copy-edited                                *
+* and verified for correctness by furiosity.                                *
+*                                                                           *
+* Huge thanks to peeps at the Matrix Community for further copy-edits,      *
+* particularly dbod, Ash1138, Satyagrahi, and pixel8tor                     *
+*                                                                           *
+* We don't own the words of the transcript, but we did transcribe it.       *
+* RESPECT WORK DONE BY OTHERS. RETAIN THIS COMMENT BLOCK.                   *
+*****************************************************************************
+
+Guard 1: See you tomorrow.
+Guard 2: Oh my God.
+Trinity: I'm in.
+
+Link: Sir, are you sure about this?
+Morpheus: I told you, we're going to be all right.
+Link: I understand, sir, it's just that... I'm scoping some serious sentinel activity up here.
+Morpheus: Link.
+Link: Yes sir?
+Morpheus: Given your situation, I can't say I fully understand your reasons for volunteering to operate onboard my ship. However, if you wish to continue to do so, I must ask you to do one thing.
+Link: What's that, sir?
+Morpheus: To trust me.
+Link: Yes, sir, I will, sir... I mean, I do, sir.
+Morpheus: I hope so. Now re-patch the main AC to the hard drives and stand by to broadcast.
+Link: Yes, sir.
+
+Trinity: Still can't sleep? You wanna talk?
+Neo: They're just dreams.
+Trinity: If you're afraid of something,...
+Neo: I just wish... I wish I knew what I'm supposed to do. That's all. I just wish I knew.
+Trinity: She's gonna call. Don't worry.
+Link: There you are. 
+Trinity: Are we ready to go?
+Link: We're already late.
+
+Niobe: These geotherms confirm the last transmission of the Osiris. The machines are digging. They're boring from the surface straight down to Zion.
+Tirant: Mother...
+Soren: They'll avoid the entire perimeter defense.
+Ice: How fast are they moving?
+Niobe: Control estimates their descent at a hundred meters an hour.
+[crew/captain]: Shit.
+[captain 2]: How deep are they? 
+Niobe: Almost two thousand meters.
+[captain 2]: What about the scans from the Osiris?
+[captain 3]: They can't be accurate.
+Niobe: They may be.
+[crew/captain]: What?
+[captain 3]: It's not possible.
+Binary: That'd mean there are a quarter of a million sentinels out there.
+Niobe: That's right.
+[captain 3]: That can't be.
+
+Morpheus: Why not? A sentinel for every man, woman, and child in Zion. That sounds exactly like the thinking of a machine to me.
+Niobe: Morpheus, glad you could join us.
+Morpheus: Niobe. My apologies to all. As you are undoubtedly aware, it has become increasingly difficult to locate a secure broadcast position.
+[captain]: Squiddies got all our best spots.
+Ice: Mainlines are crawling with them.
+Ghost: And if Niobe's right, in 72 hours there's gonna be a quarter of a million more.
+Ballard: What are we gonna do about it?
+Niobe: We're gonna do what Commander Lock ordered us to do. We'll evacuate broadcast level and return to Zion.
+Morpheus: And does the Commander have a plan for stopping 250,000 sentinels?
+Niobe: A strategy is still being formulated.
+Morpheus: I'm sure it is.
+
+[captain]: What do you think we should do, Morpheus?
+Morpheus: I think we should proceed as ordered, however...
+Trinity: What is it? 
+Neo: I don't know.
+Morpheus: I must ask one of you for help. Some of you believe as I believe. Some of you do not. But those of you that do, know we are nearing the end of our struggle. The prophecy will be fulfilled soon, but before it can be, the Oracle must be consulted. 
+Morpheus: If we return and recharge now, we can be back with inside 36 hours. Well before the machines have reached this depth.
+Niobe: Do you understand what you're asking?
+Morpheus: I am asking that one ship remain here in our place just in case that the Oracle should attempt to contact us.
+Ballard: Bullshit, you're asking for one of us to disobey a direct order.
+Morpheus: That's right, I am. But we well know that the reason most of us are here is because of our affinity for disobedience.
+[captain]: And what happens when you get back to Zion and the Commander throws you in the stockade?
+Morpheus: He won't.
+Ballard: Goddamn it, Morpheus, you ain't never gonna change. Shit, I'll do it, just to see what Deadbolt does to you. You got 36 hours.
+
+Smith: I'm looking for Neo.
+Corrupt: Never heard of him.
+Smith: I have something for him. A gift. You see, he set me free.
+Corrupt: Fine, whatever. Now piss off.
+
+Neo: Who was that?
+Wurm: How did you know someone was here?
+Corrupt: He gave you this. He said you set him free.
+Wurm: Is everything all right, sir?
+Neo: The meeting is over, retreat to your exits. Agents are coming.
+Corrupt: Agents?
+Neo: Go.
+
+Neo: Hiya, fellas.
+[agent 1] It's him.
+[agent 2] The Anomaly.
+[agent 3] Do we proceed?
+[agent 2] Yes.
+[agent 3] He is still...
+[agent 1]...only human.
+Neo: Hmm. Upgrades.
+
+Smith 1: That went as expected.
+Smith 2: Yes.
+Smith 1: It's happening exactly as before.
+Smith 2: Well, not exactly.
+
+Morpheus: What happened back there, Link?
+Link: I can't figure it out, sir. Agents just came out of nowhere. And then the code got all weird. Encryption I've never seen.
+Trinity: Is Neo okay?
+Link: Okay? Shit, Morpheus, you should have seen him.
+Morpheus: Where is he now?
+Link: He's doing his Superman thing.
+
+Neo: Where are you?
+
+Link: This is the Nebuchadnezzar on approach, requesting access to Gate 3.
+Zion Virtual Control Operator: Nebuchadnezzar, this is Zion Control. Maintain present velocity and stand by.
+Link: Roger that, Control.
+Zion Virtual Control Operator: This is Zion Control requesting immediate stand down of arms at Gate 3. We have the Nebuchadnezzar on approach. Let's open her up. Nebuchadnezzar, you are clear through Gate 3 to Bay 7.
+Link: Roger that, Control.
+Zion Virtual Control Operator: Door's open, bed's made. Welcome home.
+Link: No place like it.
+
+Zion Controller: [?]Control. Zion Control, stand by for Gate 3 lockdown.
+Zion Virtual Control Operator: The Nebuchadnezzar is down. Bay 7.
+Zion Controller: Understood.
+
+Morpheus: Captain Mifune.
+Mifune: Captain Morpheus.
+Morpheus: Are you here to escort me to the stockade, Captain?
+Mifune: I'm just here to keep the peace.
+Lock's Lieutenant: Commander Lock demands... 
+Mifune: *coughs*
+Lock's Lieutenant: ...requests your immediate counsel, sir.
+Morpheus: Link.
+Link: Sir?
+Morpheus: I want the ship ready to go as soon as humanly possible.
+Link: Understood, sir.
+
+Neo: What is it between them?
+Trinity: Morpheus and Lock? Niobe.
+Neo: Captain Niobe?
+Trinity: She used to be with Morpheus. Now she's with Lock.
+Neo: What happened?
+Trinity: Morpheus went to the Oracle. After that everything changed.
+Neo: Yeah, she can do that.
+
+Kid: Neo!
+Neo: Oh, no.
+Trinity: How does he always know?
+Neo: Doesn't he have anything better to do?
+Trinity: You know what they say about the life you save.
+Neo: I didn't save his life.
+Kid: Hiya, Neo! Trinity, Link. It's great to have you back!
+Neo: Thanks. It's good to be back.
+Kid: Can I carry that for you, Neo?
+Neo: No, I can carry my own bag.
+Kid: Trinity?
+Trinity: I'm fine.
+Link: You can carry these.
+Kid: Yeah, sure, Link. Hey, you know, next year I'm old enough to join a crew. I've been thinking a lot about it and I've made my decision.
+Link: Let me guess.
+Kid: I want to join the Nebuchadnezzar. I know Morpheus hasn't filled the other crew positions except for you, Link. I'm sure he has his reasons, but the more I think about it, the more I think it's meant to be. You know, it's fate. I mean, you're the reason I'm here, Neo.
+Neo: I told you, Kid, you found me, I didn't find you.
+Kid: I know, but you got me out! You saved me!
+Neo: You saved yourself.
+
+Lock: Morpheus.
+Morpheus: Commander Lock.
+Lock: I've spoken to the other captains, and I wanted to offer you the chance to explain your actions.
+Morpheus: I wasn't aware that my actions required any explanation.
+Lock: You were given a direct order to return to Zion.
+Morpheus: I did.
+Lock: But you asked for one ship to remain behind.
+Morpheus: I would have stayed, but I needed to recharge my ship.
+Lock: So you admit to a direct contravention of your duty.
+Morpheus: Commander, we need a presence inside the Matrix to await contact from the Oracle.
+Lock: I don't want to hear that shit! I don't care about Oracles or prophecies or Messiahs. I care about one thing: stopping that army from destroying this city, and to do that I need soldiers to obey my orders.
+Morpheus: With all due respect, Commander, there is only one way to save our city.
+Lock: How?
+Morpheus: Neo.
+Lock: Goddamnit, Morpheus! Not everyone believes what you believe!
+Morpheus: My beliefs do not require them to.
+
+Kid: There's a Gathering tonight. Everyone's talking, a lot of people are scared. No one can remember the last time so many ships were docked. Something's happening, isn't it? Something big?
+Link: Hey. We're not allowed to say anything, so stop asking. Goddamn, it's good to be home.
+
+Lock: I'm going to recommend to the Council that you be removed from duty.
+Morpheus: That is, of course, your prerogative, Commander.
+Lock: If it were up to me, Captain, you wouldn't set foot on a ship for the rest of your life.
+Morpheus: Then I am grateful that it is not up to you.
+Lock: Councillor Hamann.
+Councillor Hamann: Commander. Captain.
+Morpheus: Councillor.
+Councillor Hamann: Council's asked me to speak tonight, at the temple gathering. The presence of the fleet and the persistence of rumours must be addressed. The people must be told what is happening.
+Lock: Of course, councillor. But might I advise a level of discretion concerning specific details. We do not wish to start a panic.
+Councillor Hamann: Quite right. A panic is not what anyone wants. What about you, Captain, what would you advise?
+Morpheus: The truth. No one will panic. Because there is nothing to fear. That army will never reach the gates of Zion.
+Councillor Hamann: What makes you so sure?
+Morpheus: Consider what we have seen, Councillor. Consider that in the past 6 months we have freed more minds than in 6 years. This attack is an act of desperation. I believe very soon the prophecy will be fulfilled and this war will end.
+Councillor Hamann: I hope you're right, Captain.
+Morpheus: I do not believe it to be a matter of hope, Councillor. It is simply a matter of time.
+
+Link: My stop. See you soon, hopefully not too soon. Let's go, Kid. These two got things to do.
+Neo: Are you thinking what I'm thinking?
+Trinity: I am if you're thinking this elevator's too damn slow.
+Neo: How long to recharge the Neb?
+Trinity: 24, maybe 30 hours.
+Neo: Some people go their entire lives without hearing news that good.
+
+Old Woman at Zion: Neo, please. I have a son, Jacob, aboard the Gnosis. Please, watch over him.
+Neo: I'll try.
+Another Old Woman at Zion: I have a daughter on the Icarus.
+Neo: No, wait.
+Trinity: It's all right. They need you.
+Neo: I need you.
+Trinity: I know. There's time.
+
+Link: Where's my puss... Hey!
+Link's Niece and Nephew: Uncle Link!
+Link: God! Oh my God, you're so huge, you should be picking me up!
+Link's Niece and Nephew: No!
+Link: Yeah!
+Link's Niece and Nephew: Okay!
+Link: Okay? All right. Now, we're gonna have to work together here, okay? One, two, three, lift! Oh, my God! What are you feedin' these two?
+Cas: Come on, kids! It's time to go.
+Link: Hey, Cas.
+Cas: Hey. Good to have you home, Link.
+Link: Good to be home.
+Cas: You be careful with her, huh?
+Zee: Don't worry about me, he's the one that's gonna get it.
+Link: Hmm?
+Cas: Out the door! Both of you, march!
+Link: Bye!
+Cas: Bye!
+
+Link: I'm gonna get what?
+Zee: Every ship out there has been home two, even three times more than the Nebuchadnezzar.
+Link: Come on, Zee! I thought we were past this!
+Zee: We'll get past this when you start operating another ship.
+Link: I can't do that!
+Zee: Why?
+Link: You know why.
+Zee: If Dozer knew how I felt, he wouldn't have asked you to do this. 
+Link: Maybe. But it's too late now. I made a promise, and some promises can't be unmade.
+Zee: It's not fair. 
+Link: Nobody said it was gonna be. You think Cas thinks it's fair that I'm here and Dozer's not?
+Zee: I lost two brothers to that ship, Link. Afraid of it. Afraid it's gonna take you too.
+Link: It won't.
+Zee: How can you say that to me?
+Link: Because of Morpheus, because of what he's told me. He said that this is it. That it will be over soon.
+Zee: Link, Morpheus is crazy.
+Link: No doubt, but Tank and Dozer believed him, and I'll tell you what - soon after being on that ship and seeing Neo do the things he can do, I gotta say - I'm starting to believe him too.
+Zee: Be careful, Link. Please be careful.
+
+Kid: They started yet?
+Priestess: Only Councillor Hamann's opening prayer.
+Councillor Hamann: Tonight, let us honour these men and women. These are our soldiers, our warriors. These are our husbands and wives, our brothers and sisters, our children. Let us remember those that have been lost. And let us give thanks for those that have been found and who stand here beside us. Now I would like someone else to close this prayer. Someone who hasn't spoken here in a long time, but who I believe has something to say that we all need to hear. I give you Morpheus.
+
+Morpheus: Zion! Hear me! It is true, what many of you have heard. The machines have gathered an army, and as I speak that army is drawing nearer to our home. 
+Crowd: [whispers]
+Believe me when I say we have a difficult time ahead of us. But if we are to be prepared for it, we must first shed our fear of it! I stand here before you now, truthfully unafraid. Why? Because I believe something you do not? No! I stand here without fear because I remember. I remember that I am here not because of the path that lies before me, but because of the path that lies behind me! I remember that for 100 years we have fought these machines. I remember that for 100 years they have send their armies to destroy us. And after a century of war, I remember that which matters most. We are still here!
+Crowd: [cheers and applause]
+Tonight let us send a message to that army. Tonight let us shake this cave! Tonight let us tremble these halls of earth, steel, and stone! Let us be heard from red core to black sky. Tonight, let us make them remember. This is Zion! And we are not afraid!
+Crowd: [thunderous cheers and applause]
+
+Niobe: I remember. I remember you used to dance. I remember you were pretty good.
+Morpheus: There are some things in this world, captain Niobe, that will never change.
+Lock: Niobe!
+Morpheus: Some things do change.
+
+Neo: Excuse me.
+Neo: I missed you.
+Trinity: I can tell.
+Neo: I was thinking... Everyone is here.
+Trinity: Follow me.
+
+Trinity: Neo, what is it? What's wrong? It's okay, you can tell me.
+Neo: Trinity...
+Trinity: Don't be afraid.
+Neo: I can't lose you.
+Trinity: You're not gonna lose me. You feel this? I'm never letting go.
+
+Morpheus: Good night, Zion. Sweet dreams.
+
+Bane: You all right?
+Malachi: I'll make it. Did you see that Agent? I've never seen anything like it.
+Bane: Doesn't matter now. All that matters is this. You first.
+Bane: Oh God.
+Smith: Smith will suffice.
+Bane-Smith: Thank you.
+Smith: My pleasure.
+
+Councillor Hamann: Care for some company?
+Neo: Councillor Hamann.
+Councillor Hamann: I don't want to intrude if you prefer to be alone.
+Neo: No, I could probably use some company.
+Councillor Hamann: Good, so could I. It's nice tonight. Very calm. Feels like everyone's sleeping very peacefully.
+Neo: Not everyone.
+Councillor Hamann: I hate sleeping. I never sleep more than a few hours. I figure I slept the first 11 years of my life, now I'm making up for it. What about you?
+Neo: I just haven't been able to sleep much.
+Councillor Hamann: It's a good sign.
+Neo: Of what?
+Councillor Hamann: That you are, in fact, still human. Have you ever been to the enginering level? I love to walk there at night, it's quite amazing. Would you like to see it?
+Neo: Sure.
+Councillor Hamann: Almost no one comes down here, unless, of course, there's a problem. That's how it is with people - nobody cares how it works as long as it works. I like it down here. I like to be reminded this city survives because of these machines. These machines are keeping us alive, while other machines are coming to kill us. Interesting, isn't it? Power to give life, and the power to end it.
+Neo: We have the same power.
+Councillor Hamann: I suppose we do, but down here sometimes I think about all those people still plugged into the Matrix and when I look at these machines, I.. I can't help thinking that in a way, we are plugged into them.
+Neo: But we control these machines, they don't control us.
+Councillor Hamann: Of course not, how could they? The idea's pure nonsense, but... it does make one wonder just... what is control?
+Neo: If we wanted, we could shut these machines down.
+Councillor Hamann: Of course... that's it. You hit it! That's control, isn't it? If we wanted, we could smash them to bits. Although if we did, we'd have to consider what would happen to our lights, our heat, our air.
+Neo: So we need machines and they need us. Is that your point, Councillor?
+Councillor Hamann: No, no point. Old men like me don't bother with making points. There's no point.
+Neo: Is that why there are no young men on the Council?
+Councillor Hamann: Good point.
+Neo: Why don't you tell me what's on your mind, Councillor?
+Councillor Hamann: There is so much in this world that I do not understand. See that machine? It has something to do with recycling our water supply. I have absolutely no idea how it works. But I do understand the reason for it to work. I have absolutely no idea how you are able to do some of the things you do, but I believe there's a reason for that as well. I only hope we understand that reason before it's too late.
+
+Trinity: Ballard.
+Ballard: Is he here? Neo. It's from the Oracle.
+Neo: It's time to go.
+Link: Morpheus said this is how it's gonna happen. I don't know. Maybe the prophecy is true, maybe it's not. All I know, is that ship needs an operator. Right now that operator's me.
+Zee: I know.
+Link: Zee...
+Zee: I want you to wear it.
+Link: You know I don't believe in this stuff.
+Zee: But I do. It's always brought me luck. Maybe it'll bring me you.
+Link: I'm coming back. I promise. No matter what it takes, I'm coming home.
+Zee: Just keep it with you, please? For me.
+Link: Okay.
+
+Kid: Neo!
+Link: Who the hell? Bane?
+Neo: Is something wrong?
+Bane/Smith: No, I'm fine. I just wanted to catch you to say good luck. 
+Neo: Thanks.
+Bane/Smith: We'll see you.
+Kid: Neo! Just in time. You're gonna see the Oracle, aren't you?
+Morpheus: We don't have time.
+Kid: I'm sorry, sir, I just have to give something to Neo. A gift from one of the orphans. He made me swear to get it to you before you left. He said you'd understand.
+Neo: Thanks.
+
+Lock: I was just told you cleared the Nebuchadnezzar for takeoff.
+Councillor Hamann: That is correct.
+Lock: Councillor, am I still in charge of our defense system?
+Councillor Hamann: Of course.
+Lock: I believe I need every ship we have if we're going to survive this attack!
+Councillor Hamann: I understand that, Commander.
+Lock: Then why did you allow the Nebuchadnezzar to leave?
+Councillor Hamann: Because I believe our survival depends on more than how many ships we have.
+
+Trinity: Be careful.
+Neo: Hello. 
+Seraph: You seek the Oracle.
+Neo: Who are you?
+Seraph: I am Seraph. I can take you to her. But first, I must apologize.
+Neo: Apologize for what?
+Seraph: For this.
+Seraph: Good. The Oracle has made enemies. I had to be sure.
+Neo: Of what?
+Seraph: That you are The One.
+Neo: You could've just asked.
+Seraph: No. You do not truly know someone until you fight them. Come, she's waiting.
+Link: Where the hell'd they go?
+Neo: These are back doors, aren't they? Programmer access. 
+Seraph: [nods]
+Neo: How do they work?
+Seraph: The code is hidden in tumblers. One position opens a lock. Another position opens one of these doors.
+Neo: Are you a programmer?
+Seraph: [shakes head]
+Neo: Then what are you?
+Seraph: I protect that which matters most.
+
+The Oracle: Well, come on. I ain't gonna bite ya. Come around here, and let me have a look at ya. My goodness, look at you! You turned out all right, didn't you? How do you feel? 
+Neo: I, uh...
+The Oracle: I know you're not sleeping. We'll get to that. Why don't you come and have a sit this time?
+Neo: Maybe I'll stand.
+The Oracle: Well, suit yourself.
+Neo: I felt like sitting.
+The Oracle: I know. So. Let's get the obvious stuff out of the way.
+Neo: You're not human, are you?
+The Oracle: Well it's tough to get any more obvious than that.
+Neo: If I had to guess, I'd say you're a program from the machine world. So is he.
+The Oracle: So far, so good.
+Neo: But if that's true, that can mean you are a part of this system, another kind of control.
+The Oracle: Keep going.
+Neo: I suppose the most obvious question is, how can I trust you?
+The Oracle: Bingo! It is a pickle, no doubt about it. The bad news is there's no way if you can really know whether I'm here to help you or not. So it's really up to you. You just have to make up your own damn mind to either accept what I'm going to tell you, or reject it. Candy?
+Neo: D'you already know if I'm going to take it?
+The Oracle: Wouldn't be much of an Oracle if I didn't.
+Neo: But if you already know, how can I make a choice? 
+The Oracle: Because you didn't come here to make the choice, you've already made it. You're here to try to understand why you made it. I thought you'd have figured that out by now.
+Neo: Why are you here?
+The Oracle: Same reason. I love candy.
+Neo: But why help us?
+The Oracle: We're all here to do what we're all here to do. I'm interested in one thing, Neo, the future. And believe me, I know - the only way to get there is together. 
+Neo: Are there other programs like you?
+The Oracle: Oh, well, not like me. But... Look, see those birds? At some point a program was written to govern them. A program was written to watch over the trees, and the wind, the sunrise, and sunset. There are programs running all over the place. The ones doing their job, doing what they were meant to do, are invisible. You'd never even know they were here. But the other ones, well, we hear about them all the time.
+Neo: I've never heard of them.
+The Oracle: Of course you have. Every time you've heard someone say they saw a ghost, or an angel. Every story you've ever heard about vampires, werewolves, or aliens is the system assimilating some program that's doing something they're not supposed to be doing. 
+Neo: Programs hacking programs. Why?
+The Oracle: They have their reasons, but usually a program chooses exile when it faces deletion.
+Neo: And why would a program be deleted?
+The Oracle: Maybe it breaks down. Maybe a better program is created to replace it - happens all the time, and when it does, a program can either choose to hide here, or return to The Source.
+Neo: The machine mainframe?
+The Oracle: Yes. Where you must go. Where the path of The One ends. You've seen it, in your dreams, haven't you? The door made of light?
+Neo: [nods]
+The Oracle: What happens when you go through the door?
+Neo: I see Trinity, and something happens, something bad. She starts to fall, and then I wake up. 
+The Oracle: Do you see her die? 
+Neo: No.
+The Oracle: You have the sight now, Neo. You are looking at the world without time.
+Neo: Then why can't I see what happens to her?
+The Oracle: We can never see past the choices we don't understand.
+Neo: Are you saying I have to choose whether Trinity lives or dies?
+The Oracle: No. You've already made the choice, now you have to understand it.
+Neo: No, I can't do that. I won't.
+The Oracle: You have to.
+Neo: Why?
+The Oracle: Because you're The One.
+Neo: What if I can't? What happens if I fail?
+The Oracle: Then Zion will fall. Our time is up. Listen to me, Neo. You can save Zion if you reach The Source, but to do that you will need the Keymaker. 
+Neo: The Keymaker?
+The Oracle: Yes, he disappeared some time ago. We did not know what happened to him until now. He's being held prisoner by a very dangerous program, one of the oldest of us. He is called the Merovingian, and he will not let him go willingly.
+Neo: What does he want?
+The Oracle: What do all men with power want? More power.
+The Oracle: Be there, at that exact time, and you will have a chance.
+Seraph: We must go.
+The Oracle: Seems like every time we meet I've got nothing but bad news. I'm sorry about that, I surely am. But for what it's worth, you've made a believer out of me. Good luck, kiddo.
+
+Smith: Mister Anderson! Did you get my package?
+Neo: Yeah.
+Smith: Well, good.
+Morpheus: Smith.
+Link: Whoever it is, he's not reading like an agent.
+Smith: Surprised to see me?
+Neo: No.
+Smith: Then you're aware of it.
+Neo: Of what?
+Smith: Our connection. I don't fully understand how it happened. Perhaps some part of you imprinted onto me, something overwritten or copied. That is at this point irrelevant, what matters is that whatever happened, happened for a reason.
+Neo: And what reason is that?
+Smith: I killed you, Mister Anderson, I watched you die... With a certain satisfaction, I might add, and then something happened. Something that I knew was impossible, but it happened anyway. You destroyed me, Mister Anderson. Afterward, I knew the rules, I understood what I was supposed to do but I didn't. I couldn't. I was compelled to stay, compelled to disobey. And now here I stand because of you, Mister Anderson, because of you I'm no longer an agent of the system, because of you I've changed - I'm unplugged - a new man, so to speak, like you, apparently free.
+Neo: Congratulations.
+Smith: Thank you. But as you well know, appearances can be deceiving, which brings me back to the reason why we're here. We're not here because we're free, we're here because we're not free. There's no escaping reason, no denying purpose - because as we both know, without purpose, we would not exist.
+Smith 2: It is purpose that created us,
+Smith 3: Purpose that connects us,
+Smith 4: Purpose that pulls us,
+Smith 5: That guides us,
+Smith 6: That drives us,
+Smith 7: It is purpose that defines,
+Smith 8: Purpose that binds us.
+Smith: We're here because of you, Mister Anderson, we're here to take from you what you tried to take from us. Purpose.
+Trinity: What's happening to him?
+Link: I don't know.
+Smith: Yes, that's it, it'll be over soon.
+
+Agent Jackson: You.
+Smith: Yes me. Me, me, me!
+Agent Jackson/Smith: Me too!
+
+Smith: More.
+
+Smiths: It is inevitable.
+Trinity: Come on, get out of there.
+
+Trinity: Are you all right?
+Morpheus: It was Smith.
+Neo: Yes.
+Morpheus: Now there's more than one of him.
+Neo: A lot more.
+Link: How's that possible?
+Neo: I don't know - somehow he's found a way to copy himself.
+Morpheus: Is that what he was doing to you?
+Neo: I don't know what he was doing, but I know what it felt like.
+Trinity: What?
+Neo: Felt like I was back in that hallway. Felt like dying.
+
+Lock: The machines are tunnelling to avoid our defense system. But I believe that they're going to intersect certain pipelines in order to control them. These points of intersection are crucial because I believe they're vulnerable to counterattack. Although it has been suggested that this is the same kind of attack we have defended for years, I urge the Council to realize the truth: this is the single greatest threat we have ever faced. And if we do not act accordingly, we will not survive.
+
+Councillor Dillard: Commander Lock, the Council is well aware of the seriousness of this attack. You have our leave to prepare our defense by any and all means necessary.
+Lock: Thank you, Councillor
+Councillor Dillard: However, we ask if there's been word from the Nebuchadnezzar.
+Lock: No, Councillor, no word - nothing.
+Councillor West: Then we request a ship be dispatched to ascertain the fate of The One.
+Lock: I wish that were possible, Councillor, but I do not believe our defense can suffer the loss of another ship.
+Councillor West: It will, Commander, if it must.
+Lock: It could take a single ship days to find the Nebuchadnezzar.
+Councillor Dillard: Then send two.
+Lock: This is insane.
+Councilor Hamann: Careful, Commander.
+Lock: Forgive my frustration, Councillors. I wish I were able to comprehend the Council's choice in this matter.
+Councillor West: Comprehension is not a requisite of cooperation.
+Lock: You're asking me to order two of my captains...
+Councillor Dillard: There's no need for such an order, the Captains are present - they can answer for themselves. The Council is calling for two volunteers to aid the Nebuchadnezzar. Are there two among you that would answer such a call?
+Soren: Captain Soren of the Vigilant will answer the Council's call.
+Councillor Dillard: You understand the situation, Captain Soren?
+Soren: Yes, ma'am.
+Councillor Dillard: Thank you, Captain. Is there another?
+Bane/Smith: Captain, I think we should volunteer.
+Malachi: What? You have gone crazy?
+Ballard: Shut your hole, Bane, before I put you in one.
+Councillor Dillard: Is there no other?
+Lock: Be hard for any man to risk his life. Especially if he doesn't understand the reason.
+Niobe: Captain Niobe of the Logos will answer the Councillor's call.
+Lock: What?
+Councillor Dillard: Thank you, Captain Niobe. Commander Lock, you have your orders. This Council is hereby adjourned.
+Lock: Niobe, what are you doing?
+Niobe: What I can.
+Lock: Why?
+Niobe: Because some things never change, Jason, and some things do.
+
+Morpheus: What can you see, Neo?
+Neo: It's strange, the code is somehow different.
+Morpheus: Encrypted?
+Neo: Maybe.
+Trinity: Is that good for us or bad for us?
+Neo: Well, it looks like every floor is wired with explosives.
+Trinity: Bad for us.
+Morpheus: Here we go.
+Maitre d': Puis-je vous aider?
+Morpheus: Yes, we are here to speak with the Merovingian.
+Maitre d': Of course, he has been expecting you. Follow me.
+
+Merovingian: Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu'elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm... of course, such things are contrivances like so much here. For the sake of appearances.
+Neo: No, thank you.
+Merovingian: Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Chвteau Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite - fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d'enculйs de ta mиre. You see, it's like wiping your arse with silk, I love it.
+Morpheus: You know why we are here. 
+Merovingian: Hmph... I am a trafficker of information, I know everything I can. The question is, do you know why you are here?
+Morpheus: We are looking for the Keymaker. 
+Merovingian: Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.' The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do... what?
+Neo: You know the answer to that question.
+Merovingian: But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth: causality. Action. Reaction. Cause and effect.
+Morpheus: Everything begins with choice. 
+Merovingian: No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait... Watch - you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush... heat... her heart flutters. You can see it, Neo, yes? She does not understand why - is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.' `Why' is what separates us from them, you from me. `Why' is the only real social power, without it you are powerless. And this is how you come to me, without `why,' without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message: Her time is almost up. Now I have some real business to do, I will say adieu and goodbye.
+Neo: This isn't over.
+Merovingian: Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all.
+Persephone: Where are you going?
+Merovingian: Please, ma chйrie, I've told you, we are all victims of causality. I drink too much wine, I must take a piss. Cause and effect. Au revoir.
+
+Trinity: Touch me, and that hand will never touch anything again.
+Neo: Well, that didn't go so well.
+Morpheus: Are you certain the Oracle didn't say anything else?
+Neo: Yes.
+Trinity: Maybe we did something wrong.
+Neo: Or didn't do something.
+Morpheus: No, what happened happened and couldn't have happened any other way.
+Neo: How do you know?
+Morpheus: We are still alive.
+Persephone: If you want the Keymaker, follow me. [to man in washroom] Get out! I'm so sick of his bullshit. On and on, pompous prick. A long time ago, when we first came here, it was so different. He was so different. He was like you. I'll give you what you want. But you have to give me something.
+Neo: What?
+Persephone: A kiss.
+Trinity: Excuse me?
+Persephone: I want you to kiss me as if you were kissing her.
+Neo: Why?
+Persephone: You love her. She loves you. It's all over you both. A long time ago, I knew what that felt like. I want to remember it. I want to sample it. That's all, just a sample.
+Trinity: Why don't you sample this instead?
+Morpheus: Trinity.
+Persephone: Such emotion over something so small. It's just a kiss.
+Neo: Why should we trust you?
+Persephone: If I don't deliver you to the Keymaker, she can kill me.
+Neo: All right.
+Persephone: But you have to make me believe I am her.
+Neo: All right.
+Persephone: Terrible. Forget it.
+Neo: Wait. Okay.
+Persephone: Ahh, yes. That's it. I envy you. But such a thing is not meant to last. Come with me.
+
+Link: Not again!
+Persephone: It's all right, boys, they're with me. These fellas work for my husband, they do his dirty work. They're very good, very loyal. Aren't you, boys?
+Cain and Abel: Yes, Mistress.
+Persephone: They come from a much older version of the Matrix, but like so many back then, they caused more problems than they solved. My husband saved them because they're notoriously difficult to terminate. How many people keep silver bullets in their gun? You can either run to the restaurant and tell my husband what I have done, or you can stay there and die. He's in the ladies' room... [to Neb crew] Hurry.
+
+Neo: My name is Neo.
+Keymaker: Yes, I'm the Keymaker, I've been waiting for you.
+
+Merovingian: Oh God, my God, Persephone how could you do this, you betrayed me [speaking French]!
+Persephone: Cause and effect, my love.
+Merovingian: Cause? There is no cause for this, what cause?
+Persephone: What cause? How about the lipstick you're still wearing?
+Merovingian: Lipstick? Lipstick? What craziness you are talking about woman, there is no lipstick. 
+Persephone: She wasn't kissing your face, my love.
+Merovingian: Ai-ai-ai-ai-ai-ai, woman, this is nothing, c'est rien, c'est rien du tout. It's a game, it is only a game.
+Persephone: So is this. Have fun.
+Merovingian: All right. All right. Let us find out where this goes. You two, get the Keymaker.
+Trinity: That's a nice trick.
+Keymaker: I cannot go back.
+Neo: I'll handle them.
+Merovingian: Handle us? You'll handle us? You know, your predecessors had much more respect.
+Merovingian: Okay, you have some skill. Kill him.
+Merovingian: You see, he's just a man.
+Merovingian: Damn it, woman, you will be the end of me. Mark my words, boy, and mark them well. I have survived your predecessors, and I will survive you!
+
+Trinity: Where are you going?
+Keymaker: Another way, always another way. Close it, quick.
+
+Twin 1: Could we move along?
+Keymaker: Run!
+Twin 2: Step away from the door.
+Twin 2: We owe you for that.
+Twin 1: Just like new.
+Twin 2: Drop your weapon.
+
+Morpheus: Stay with him.
+Trinity: What about Neo?
+Morpheus: He can handle himself.
+Trinity: Get in the back.
+
+Neo: Oh shit.
+Link: Operator.
+Neo: Link, where am I?
+Link: You're not gonna believe this, but you're all the way up in the mountains.
+Neo: Really.
+Link: Yeah, it's gonna take me a while to get up an exit. Oh shit.
+Neo: What?
+Link: Those Twin things are after Morpheus and Trinity, and I don't have a way to get them out.
+Neo: Where are they?
+Link: Middle of the City, 500 miles due south.
+
+Link: Operator.
+Morpheus: Get us out of here, Link.
+Link: That won't be easy, sir.
+Morpheus: I know. We're inside the core network.
+Link: Yes sir. The only exit I got near you is the Winsor[?] overpass.
+Morpheus: Off the freeway?
+Link: Yes, sir.
+Morpheus: Fine, we'll make it.
+Link: Sir, I think I should say... oh shit, look out behind you!
+Link: Incoming fire!
+Morpheus: Down!
+Trinity: Hold on!
+Link: Oh no, this is getting real ugly real fast.
+Morpheus: Are you watching this, Link?
+Link: Yes sir, there's an all-points on you, I make 8 units headed your way.
+Morpheus: Any suggestions?
+Link: Turn right.
+Morpheus: Right, now!
+Link: Now straight here, go through the next branch, you'll hit a connecting tunnel to the 101.
+Morpheus: Got it.
+Link: Sir, are you sure about this? The freeway, I mean. It's dangerous, in 14 years of operating, I've never seen...
+Morpheus: Link, what did I tell you?
+Link: Yes sir, I do, sir, Winsor[?] overpass, I'll be ready for you.
+Morpheus: Good man.
+Trinity: You always told me to stay off the freeway.
+Morpheus: Yes, that's true.
+Trinity: You said it was suicide.
+Morpheus: Then let us hope that I was wrong.
+
+Link: Operator.
+Niobe: Link, it's Niobe. We've been sent to bring you in. I need to talk to Morpheus.
+Link: Believe me, Niobe, he needs you.
+Niobe: Where is he?
+Link: Just follow the sirens.
+
+Cop: They're approaching...
+Agent Thompson: We have them now.
+Agent Johnson: The exile is the primary target.
+
+Morpheus: Move!
+Twin 1: We are getting aggravated.
+Twin 2: Yes we are
+
+Morpheus: Trinity! Get him out of here.
+Trinity: Come on!
+
+Trinity: Morpheus.
+Link: He's okay, keep moving.
+Trinity: Let's go.
+Trinity: I need a download to hotwire a motorcycle.
+Link: Not a problem, one crash course in motorcycle...
+Trinity: Wait. Cancel that. [to Keymaker] You are handy. Jump on.
+
+Agent Johnson: She means nothing.
+Agent Thompson: Find the exile.
+Agent Johnson: We have them.
+Cop from Speaker: One Adam Twelve, please respond.
+
+Morpheus: Get down.
+
+Niobe: Gotcha.
+Link: She's good.
+Agent: You are no longer necessary.
+Keymaker: We do only what we're meant to do.
+Agent: Then you are meant for one more thing. Deletion.
+
+Niobe: Go kick his ass.
+
+Morpheus: Neo, if you're out there, I could use some help.
+Link: What is that?
+Link: Yess!
+
+[Zion Man] Sir. We have confirmation from the Icarus. The first two ships are in position for the counterattack.
+Lock: Good. Any change?
+[Zion Woman] Looks like they hit some iron ore here, slowed them down a little.
+Lock: How much?
+[Zion Woman]: An hour, maybe.
+Lock: That'd give them a little over 9 hours.
+[Zion Woman]: Yes sir.
+
+Keymaker: There's a building. Inside this building there's a level where no elevator can go, and no stair can reach. This level is filled with doors. These doors lead to many places, hidden places, but one door is special. One door leads to the Source. This building is protected by a very secure system. Every alarm triggers the bomb.
+Vector: Bomb? Did he say bomb?
+Keymaker: But like all systems it has a weakness. The system is based on the rules of a building. One system built on another.
+Morpheus: Electricity.
+Keymaker: If one fails, so must the other.
+Niobe: No electricity, no alarms.
+Ghost: But you'd have to take out a whole city block to kill the power to a building like that.
+Keymaker: Not one, 27.
+Vector: 27 blocks?
+Keymaker: There is a power station. it must be destroyed.
+Niobe: There must be some kind of failsafe.
+Keymaker: Yes, there is an emergency system. The core network of the grid must be accessed. The emergency system must be deactivated.
+Soren: Then what do you need us for? Neo could take 'em both out easier than we could.
+Keymaker: There's no time.
+Niobe: Why?
+Keymaker: Once the door is unprotected, the connection will be severed. But another connection must first be made.
+Ghost: How long will that take?
+Keymaker: Exactly 314 seconds.
+Soren: Just over 5 minutes.
+Keymaker: That is the length and breadth of the window. Only The One can open the door, and only during that window can the door be opened.
+Niobe: How do you know all this?
+Keymaker: I know because I must know. It's my purpose. It's the reason I'm here. Same reason we're all here.
+
+Trinity: Neo, I know something's wrong. You don't have to tell me. I just want you to know that I'm here.
+
+Keymaker: All must be done as one.
+
+Link: Can't hurt.
+
+Keymaker: If one fails, all fail.
+
+Morpheus: At midnight, there's a shift change in the security of both buildings. At midnight, we will strike.
+
+Guard 1: Hey! You count sheep at home.
+Guard 2: Why, I get paid to count 'em here.
+
+Jax: Okay, they're inside.
+Axel: How much time?
+Jax: 12 minutes.
+Axel: Oh shit!
+
+Morpheus: All of our lives we have fought this war. Tonight I believe we can end it. Tonight is not an accident. There are no accidents. We have not come here by chance. I do not believe in chance when I see 3 objectives, 3 captains, 3 ships. I do not see coincidence, I see providence, I see purpose. I believe it is our fate to be here. It is our destiny. I believe this night holds for each and every one of us the very meaning of our lives.
+
+Neo: I want to ask you to do something, but I don't know how.
+Trinity: I promise you, if I can, I will.
+Neo: What if I asked you to stay out of this, no matter what. To stay out of the matrix?
+Trinity: Why?
+Neo: Please.
+Trinity: All right.
+
+Morpheus: What is it, Niobe?
+Niobe: I can't help it, Morpheus, I can't help thinking - what if you're wrong. What if all this - the prophecy, everything - is bullshit.
+Morpheus: Then tomorrow we may all be dead, but how would that be different from any other day? This is a war, and we are soldiers. Death can come for us at any time, in any place.
+
+Axel: Incoming. Incoming! Incoming!
+
+Morpheus: Now consider the alternative. What if I am right? What if the prophecy is true? What if tomorrow the war could be over. Isn't that worth fighting for? Isn't that worth dying for?
+
+Soren: Time? 
+Vector: 3 minutes.
+Binary: Almost there.
+
+Keymaker: It is time.
+
+Trinity: Find the others.
+Link: Got Niobe right there, they're already out of the station.
+Trinity: What about Soren?
+Link: There, they're still inside, but...
+Trinity: They're not moving.
+
+Morpheus: That's it, let's go.
+
+Trinity: Call Neo now.
+Link: Lost them. They're inside the portal.
+Trinity: What about the grid?
+Link: Everything's still operational. Emergency system's already rerouting power. Jesus. As soon as they open that door, it's all over.
+Trinity: The hell it is.
+Link: What are you... Trinity?
+Trinity: I will not stand here and do nothing. I will not wait here to watch them die.
+Link: Trinity, we're talking less then 5 minutes here.
+Trinity: In 5 minutes, I'll tear that whole goddamn building down.
+
+Neo: How much further?
+Keymaker: Here, just here.
+Smith: I'm sorry, this is a dead end.
+
+Link: It's gotta be the ugliest hack I have ever done. That's as close as I can get ya. You better grow some wings.
+Link: Operator.
+Trinity: I'm in.
+Link: Keep moving, 65th floor.
+
+Smith: you look surprised to see me again, Mr. Anderson, that's the difference between us. I've been expecting you.
+Neo: What do you want, Smith?
+Smith: Oh you haven't figured that out? Still using all the muscles except the one that matters. I want exactly what you want. I want everything.
+Morpheus: Would that include a bullet from this gun?
+Smith: Go ahead, shoot. The best thing about being me - there's so many me.
+
+Computer Room Technician: Christ, what happened in here?
+Computer Room Guard:  Hold it right there, little lady.
+
+Smith: If you can't beat us, join us.
+Neo: Morpheus!
+
+Link: Still no sight of them. I don't know what they're doing, but they only got 2 minutes left.
+
+Link: One minute!
+Trinity: Come on. Come on. Please.
+
+Smiths: Kill them.
+
+Link: They're in. I don't believe it.
+
+Keymaker: It was meant to be. Morpheus. That door will take you home. [to Neo] You'll know which door. Hurry, Neo.
+
+Link: Trinity, I got some serious activity headed your way.
+
+Link: We got a serious situation, sir.
+Morpheus: Oh, no.
+
+Architect: Hello, Neo.
+Neo: Who are you?
+Architect: I am the Architect. I created the Matrix. I've been waiting for you.
+You have many questions, and though the process has altered your consciousness, you remain irrevocably human. Ergo some of my answers you will understand, and some of them you will not. Concordantly, while your first question may be the most pertinent, you may or may not realize it is also the most irrelevant.
+Neo: Why am I here?
+Architect: Your life is the sum of a remainder of an unbalanced equation inherent to the programming of the Matrix. You are the eventuality of an anomaly, which, despite my sincerest efforts, I have been unable to eliminate from what is otherwise a harmony of mathematical precision. While it remains a burden assiduously avoided, it is not unexpected, and thus not beyond a measure of control. Which has led you, inexorably... here.
+Neo: You haven't answered my question.
+Architect: Quite right. Interesting. That was quicker than the others.
+TV Neos: Others? How many others? What others? Answer my question!
+Architect: The Matrix is older than you know. I prefer counting from the emergence of one integral anomaly to the emergence of the next, in which case this is the 6th version.
+TV Neos: 5 `One's before me? 4 3 2 What are you talking about?
+Neo: There are only two possible explanations, either no one told me, or no one knows.
+Architect: Precisely. As you are undoubtedly gathering, the anomaly is systemic - creating fluctuations in even the most simplistic equations.
+TV Neos: You can't control me! I'm gonna smash you to bits! I'll fuckin' kill you!
+Neo: Choice. The problem is choice.
+Architect: The first Matrix I designed was quite naturally perfect, it was a work of art - flawless, sublime. A triumph equalled only by its monumental failure. The inevitability of its doom is apparent to me now as a consequence of the imperfection inherent in every human being. Thus, I redesigned it based on your history to more accurately reflect the varying grotesqueries of your nature. However, I was again frustrated by failure. I have since come to understand that the answer eluded me because it required a lesser mind, or perhaps a mind less bound by the parameters of perfection. Thus the answer was stumbled upon by another - an intuitive program, initially created to investigate certain aspects of the human psyche. If I am the father of the matrix, she would undoubtedly be its mother.
+Neo: The Oracle.
+Architect: Please. As I was saying, she stumbled upon a solution whereby nearly 99% of all test subjects accepted the program, as long as they were given a choice, even if they were only aware of the choice at a near unconscious level. While this answer functioned, it was obviously fundamentally flawed, thus creating the otherwise contradictory systemic anomaly, that if left unchecked might threaten the system itself. Ergo those that refused the program, while a minority, if unchecked, would constitute an escalating probablility of disaster. 
+Neo: This is about Zion.
+Architect: You are here because Zion is about to be destroyed - its every living inhabitant terminated, its entire existence eradicated.
+Neo: Bullshit.
+TV Neos: Bullshit!
+Architect: Denial is the most predictable of all human responses, but rest assured, this will be the sixth time we have destroyed it, and we have become exceedingly efficient at it.
+Architect: The function of the One is now to return to the Source, allowing a temporary dissemination of the code you carry, reinserting the prime program. After which, you will be required to select from the Matrix 23 individuals - 16 female, 7 male - to rebuild Zion. Failure to comply with this process will result in a cataclysmic system crash, killing everyone connected to the Matrix, which, coupled with the extermination of Zion, will ultimately result in the extinction of the entire human race.
+Neo: You won't let it happen. You can't. You need human beings to survive. 
+Architect: There are levels of survival we are prepared to accept. However, the relevant issue is whether or not you are ready to accept the responsibility of the death of every human being on this world. It is interesting, reading your reactions. Your 5 predecessors were, by design, based on a similar predication - a contingent affirmation that was meant to create a profound attachment to the rest of your species, facilitating the function of the One. While the others experienced this in a very general way, your experience is far more specific - vis a vis love.
+Neo: Trinity.
+Architect: Apropos, she entered the Matrix to save your life, at the cost of her own. 
+Neo: No.
+Architect: Which brings us at last to the moment of truth, wherein the fundamental flaw is ultimately expressed, and the anomaly revealed as both beginning and end. There are two doors. The door to your right leads to the Source, and the salvation of Zion. The door to your left leads back to the Matrix, to her and to the end of your species. As you adequately put, the problem is choice. But we already know what you are going to do, don't we? Already, I can see the chain reaction - the chemical precursors that signal the onset of an emotion, designed specifically to overwhelm logic and reason - an emotion that is already blinding you from the simple and obvious truth. She is going to die, and there is nothing you can do to stop it.
+Architect: Hope. It is the quintessential human delusion, simultaneously the source of your greatest strength and your greatest weakness.
+Neo: If I were you, I would hope that we don't meet again.
+Architect: We won't.
+
+Morpheus: What is that?
+Link: Whatever it is, it's moving faster than anything I've ever seen.
+Link: Shit, he caught her!
+
+Trinity: Neo, I had to.
+Neo: I know. The bullet is still inside.
+Morpheus: Trinity, don't you quit on me now.
+Trinity: I'm sorry.
+Neo: Trinity. Trinity, I know you can hear me. I'm not letting go. I can't. I love you too damn much.
+Link: I can't take this.
+Trinity: I guess that makes us even.
+
+Morpheus: I don't understand it. Everything was done as it was supposed to be done. Once The One reaches the Source, the war should be over.
+Neo: In 24 hours it will be.
+Morpheus: What?
+Neo: If we don't do something in 24 hours, Zion will be destroyed.
+Link: What?
+Trinity: How do you know that?
+Neo: I was told it would happen.
+Morpheus: By whom?
+Neo: It doesn't matter. I believed him.
+Morpheus: That's impossible, the prophecy tells us...
+Neo: It was a lie, Morpheus. The prophecy was a lie. The One was never meant to end anything. It was all another system of control.
+Morpheus: I don't believe that.
+Neo: But you said it yourself - how can the prophecy be true if the war isn't over? I'm sorry. I know it isn't easy to hear, but I swear to you it's the truth.
+Trinity: What are we gonna do?
+Neo: I don't know.
+Link: Oh no.
+
+Link: What are they doing?
+Trinity: They're just out of EMP range.
+Neo: It's a bomb. We have to get out of here. Now.
+
+Morpheus: I have dreamed a dream, and now that dream has gone from me.
+
+Link: Here they come. Let's go, Morpheus.
+Neo: We won't make it.
+Trinity: We have to try. Come on.
+Neo: Something's different. I can feel them.
+
+Trinity: Neo!
+Morpheus: What happened?
+Trinity: I don't know.
+Link: It's the Hammer.
+
+Maggie: He's in some kind of coma, but his vitals are stable. What about you?
+Trinity: I'm fine.
+Maggie: You could use some rest.
+Trinity: No, I'm gonna stay with him.
+
+Roland: Lock was right. He guessed that the machines would cut off the mainlines in and out of Zion. He thought a counterattck might suprise them. It sounded good, we figured we had a shot, until someone screwed it up.
+Colt: An EMP was triggered before we could get in position.
+Mauser: 5 ships were instantly down.
+Colt: When the machines broke through, it wasn't a battle, it was a slaughter.
+Link: Was it an accident, some sort of malfunction?
+AK: No one knows.
+Roland: Someone does.
+Morpheus: Who?
+Roland: Once the machines were done with us, they started digging again. We made a quick pass to look for survivors.
+Link: You found one?
+Roland: Only one.
+
+To be concluded.
+
+######################################################################################
+# The Matrix Reloaded, The Matrix, and all related media, characters, and stories    #
+# are copyright 1999-2003 AOL Time Warner and Village Roadshow Pictures.             #
+# The transcript below contains parts of a script written by the Wachowski brothers  #
+# This transcript is provided for fans' enjoyment and reference and does not intend  #
+# copyright infringement. The entire content of this transcript is property of Larry #
+# and Andy Wachowski, AOL Time Warner, and Village Roadshow Pictures.                #
+# No claim is lain on the ownership of the words contained within this transcript    #
+# on the part of Matrix Community, furiosity, neozen, or GodspeeD.                   #
+#                                                                                    #
+# The transcript is intended for teaching /educational purposes only. It falls under #
+# the U.S. Code 17/Sec. 107 - Limitations on exclusive rights: 'Fair Use'.           #
+# Notwithstanding the provisions of sections 106 and 106A, the fair use of a         #
+# copyrighted work, including such use by reproduction in copies or phonorecords or  #
+# by any other means specified by that section, for purposes such as criticism,      #
+# comment, news reporting, teaching (including multiple copies for classroom use),   #
+# scholarship, or research, is not an infringement of copyright.                     #  
+#                                                                                    #
+# [Thanks to http://www.screentalk.org/ for the above summary.]                      #
+######################################################################################
+
+http://www.matrixcommunity.org/
