@@ -1,0 +1,8 @@
+From: Почтовый робот <somebody@mail.ru>
+To: {TO}
+Subject: Добрый день!
+Content-type: text/plain; charset=utf-8
+
+Привет, {TO}!
+{TEXT}
+Это сообщение сгенерировано роботом - не отвечайте на него.

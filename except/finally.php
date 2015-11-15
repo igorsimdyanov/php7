@@ -1,24 +1,14 @@
 <?php ## Инструкция try во вложенных функциях.
-echo "Начало программы.<br>";  
-try { 
-  echo "Начало try-блока.<br>";
-  outer(); 
-  echo "Конец try-блока.<br>";  
-} catch (Exception $e) { 
-  echo " Исключение: {$e->getMessage()}<br>";
-} 
-echo "Конец программы.<br>";  
-function outer() { 
-  echo "Вошли в функцию ".__METHOD__."<br>";
-  try {
-    inner(); 
-  } catch(Exception $e) {
-    echo "Вышли из функции ".__METHOD__."<br>";  
+  function eatThis() { throw new Exception("bang-bang!"); }
+  function hello() {
+    echo "Все, что имеет начало, ";
+    try {
+      eatThis();
+    } finally {
+      echo "имеет и конец.";
+    }
+    echo "Это никогда не будет напечатано!";
   }
-} 
-function inner() { 
-  echo "Вошли в функцию ".__METHOD__."<br>";
-  throw new Exception("Hello!");
-  echo "Вышли из функции ".__METHOD__."<br>";  
-}
+  // Вызываем функцию.
+  hello();
 ?>
