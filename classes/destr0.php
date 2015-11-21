@@ -1,5 +1,4 @@
 <?php ## Явное освобождение ресурсов.
-  require_once "lib/config.php"; 
   require_once "File/Logger0.php";
   // Создаем в цикле много объектов FileLogger0.
   for ($n = 0; $n < 10; $n++) {

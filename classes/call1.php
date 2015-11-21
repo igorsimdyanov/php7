@@ -1,5 +1,4 @@
 <?php ## Вызов метода объекта.
-  require_once "lib/config.php"; 
   require_once "Math/Complex1.php";
   // Создаем первый объект.
   $a = new MathComplex1;

@@ -1,4 +1,4 @@
-<?php ## Особенности global.
+<?php ## Особенности инструкции global.
   $a = 100;
   function test() { 
     global $a;

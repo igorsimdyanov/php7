@@ -1,5 +1,4 @@
 <?php ## Иерархия ошибок.
-  require_once "lib/config.php";
   require_once "PHP/Exceptionizer.php";
   suffer();
   function suffer() {
