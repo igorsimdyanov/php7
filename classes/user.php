@@ -1,4 +1,4 @@
-<?php ## Использование методов __sleep() и __wakeup().
+<?php ## Использование метода __sleep().
   class user
   {
     // Конструктор
@@ -11,11 +11,8 @@
     }
     public function __sleep()
     {
+      $this->password = "";
       return ['name', 'referrer', 'time'];
-    }
-    public function __wakeup()
-    {
-      $this->time = time();
     }
 
     // Имя пользователя
