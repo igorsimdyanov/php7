@@ -1,6 +1,4 @@
 <?php ## Вызов метода объекта.
-  // Подключение директории библиотек в include_path.
-  require_once "lib/config.php"; 
   // Загрузка класса.
   require_once "Math/Complex.php";
   // Создаем новый объект класса Math_Complex.

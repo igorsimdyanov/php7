@@ -4,7 +4,7 @@
   <title>Гарантированный прием значений от флажков</title>
 </head>
 <body>
-  <?php ## Гарантированный прием значений от флажков.
+  <?php
   if (isset($_REQUEST['doGo'])) {
     foreach ($_REQUEST['known'] as $k => $v) {
       if($v) echo "Вы знаете язык $k!<br>"; 

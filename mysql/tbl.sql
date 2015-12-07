@@ -1,0 +1,4 @@
+CREATE TABLE tbl (
+  id INT(11) NOT NULL DEFAULT '5',
+  id_cat INT(11) DEFAULT NULL
+);

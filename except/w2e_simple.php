@@ -1,5 +1,4 @@
 <?php ## Преобразование ошибок в исключения.
-  require_once "lib/config.php";
   require_once "PHP/Exceptionizer.php";
 
   // Для большей наглядности поместим основной проверочный код в функцию.
