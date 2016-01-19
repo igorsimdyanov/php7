@@ -1,0 +1,25 @@
+# Типовые настройки, общие для всех доменов
+index index.php index.html;
+# Максимальный размер HTTP-документа
+client_max_body_size 32m;
+
+# Закрываем доступ к файлам .htaccess и .htpassword
+location ~ /\.ht {
+  deny all;
+}
+# Не помещаем в журнальный файл обращения к favicon.ico
+location = /favicon.ico {
+  log_not_found off;
+  access_log off;
+}
+# Не помещаем в журнальный файл обращения к robots.txt, если его нет
+location = /robots.txt {
+  allow all;
+  log_not_found off;
+  access_log off;
+}
+# Не помещаем в журнальный файл, обращения к файлам, начинающимся с /apple-touch-
+location ~ /apple-touch- {
+  log_not_found off;
+  access_log off;
+}

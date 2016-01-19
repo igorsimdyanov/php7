@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>PHP</title>
+    <link>http://exmaple.com/</link>
+    <description>Портал, посвященный PHP</description>
+    <language>ru</language>
+    <pubDate>Tue, 17 Dec 2015 15:30:00 +0300</pubDate>
+    <item>
+      <title>Вышел PHP 7.0.1</title>
+      <description>Команда разработчиков PHP сообщает о выходе версии PHP 7.0.1, в котором устранены ряд ошибок. Всем пользователям PHP 7.0 рекомендуется обновиться до этой версии.</description>
+      <link>http://example.com/news/177</link>
+      <guid>news/177</guid>
+      <pubDate>Tue, 17 Dec 2015 15:30:00 +0300</pubDate>
+      <enclosure url="http://example.com/images/177/9765a78af8f6fcb2009c3440730d8311.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Вышел PHP 7.0.0</title>
+      <description>Команда разработчиков PHP сообщает о выходе версии PHP 7.0.0. Данный выпуск начинает новую серию PHP 7.</description>
+      <link>http://example.com/news/178</link>
+      <guid>news/178</guid>
+      <pubDate>Tue, 03 Dec 2015 22:30:00 +0300</pubDate>
+      <enclosure url="http://example.com/images/178/a8e8ee34f9a85116cb60417585129cfe.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Вышел PHP 5.6.16</title>
+      <description>Команда разработчиков PHP сообщает о выходе версии PHP 5.6.16, в котором устранены ряд ошибок. Всем пользователям PHP 5.6 рекомендуется обновиться до этой версии.</description>
+      <link>http://example.com/news/179</link>
+      <guid>news/177</guid>
+      <pubDate>Tue, 26 Nov 2015 18:12:59 +0300</pubDate>
+      <enclosure url="http://example.com/images/177/66f5e2c68f2dd9cf2c2541d298013f3a.JPG" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

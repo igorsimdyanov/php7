@@ -1,0 +1,19 @@
+server {
+  listen   80;
+  root /var/www/example.org/www;
+  access_log /var/www/example.org/log/access.log;
+  error_log  /var/www/example.org/log/error.log;
+  
+  server_name example.org www.example.org;
+
+  include /etc/nginx/templates/default;
+
+  location ~* \.php$ {
+    try_file $uri $uri/ @php;
+  }
+  location @php {
+    proxy_pass http://localhost:9000;
+    include fastcgi_params;
+    fastcgi_index index.php;
+  }
+}

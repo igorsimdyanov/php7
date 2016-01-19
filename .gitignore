@@ -11,3 +11,6 @@
 /composer/pager_user/vendor/
 /composer/phinx/vendor/
 /composer/psysh/vendor/
+/phpdocs/phpdocs/vendor/
+/standarts/codesniffer/vendor/
+/standarts/vendor/

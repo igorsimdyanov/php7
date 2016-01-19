@@ -1,0 +1,19 @@
+upstream example_net {
+  server unix:/var/www/example.net/fastcgi.sock fail_timeout=0;
+}
+server {
+  listen   80;
+  root /var/www/example.net/www;
+  access_log /var/www/example.net/log/access.log;
+  error_log  /var/www/example.net/log/error.log;
+  
+  server_name example.net www.example.net;
+
+  include /etc/nginx/templates/default;
+
+  location ~* \.php$ {
+    fastcgi_pass example_net;
+    include fastcgi_params;
+    fastcgi_index index.php;
+  }
+}
