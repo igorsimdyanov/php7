@@ -3,7 +3,8 @@
   echo hrefActivate($text);
 
   // Заменяет ссылки на их HTML-эквиваленты ("подчеркивает ссылки").
-  function hrefActivate($text) {
+  function hrefActivate($text)
+  {
     return preg_replace_callback(
       '{
         (?:
@@ -29,5 +30,5 @@
       },
       $text
     );
-}   
+  }   
 ?>

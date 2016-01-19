@@ -7,3 +7,7 @@
 *.out
 .idea
 .DS_Store
+/composer/monolog/vendor/
+/composer/pager_user/vendor/
+/composer/phinx/vendor/
+/composer/psysh/vendor/

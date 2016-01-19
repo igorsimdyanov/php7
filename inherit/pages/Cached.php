@@ -1,13 +1,15 @@
 <?php ## Базовый класс для кэшируемых страниц
   require_once "Page.php";
-  class Cached extends Page {
+  class Cached extends Page
+  {
     // Время действия кэша
     protected $expires;
     // Хранилище
     protected $store;
 
     // Конструктор класса
-    public function __construct($title = '', $content = '', $expires = 0) {
+    public function __construct($title = '', $content = '', $expires = 0)
+    {
       // Вызываем конструктор базового класса Page
       parent::__construct($title, $content);
       // Устанавливаем время жизни кэша
@@ -21,14 +23,16 @@
     }
 
     // Проверить есть ли позиция $key в кэше
-    protected function isCached($key) {
+    protected function isCached($key)
+    {
       // return (bool) $this->store->get($key);
     }
     // Поместить в кэш по ключу $key значение $value
     // В случае если ключ уже существует:
     // 1. Не делать ничего, если $force принимает значение false
     // 2. Переписать, если $force принимает значение true
-    protected function set($key, $value, $force = false) {
+    protected function set($key, $value, $force = false)
+    {
       // if ($force) {
       //   $this->store->set($key, $value, $this->expires);
       // } else {
@@ -38,17 +42,20 @@
       // }
     }
     // Извлечение значения $key из кэша
-    protected function get($key) {
+    protected function get($key)
+    {
       // return $this->store->get($key);
     }
 
     // Формируем уникальный ключ для хранилища
-    public function id($name) {
+    public function id($name)
+    {
       die("Что здесь делать? Неизвестно!");
     }
 
     // Получение заголовка страницы
-    public final function title() {
+    public final function title()
+    {
       // if ($this->isCached($this->id('title'))) {
       //   return $this->get($this->id('title'));
       // } else {
@@ -56,7 +63,8 @@
       // }
     }
     // Получение содержимое страницы
-    public final function content() {
+    public final function content()
+    {
       // if ($this->isCached($this->id('content'))) {
       //   return $this->get($this->id('content'));
       // } else {

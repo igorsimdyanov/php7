@@ -1,11 +1,13 @@
 <?php ## Квадраты четных элементов.
-  function collect($arr, $callback) {
+  function collect($arr, $callback)
+  {
     foreach($arr as $value) {
       yield $callback($value);
     }
   }
 
-  function select($arr, $callback) {
+  function select($arr, $callback)
+  {
     foreach($arr as $value) {
       if($callback($value)) yield $value;
     }

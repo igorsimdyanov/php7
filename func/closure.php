@@ -1,6 +1,7 @@
 <?php ## Замыкание
   $message = "Работа не может быть продолжена из-за ошибок:<br />";
-  $check = function(array $errors) use ($message) {
+  $check = function(array $errors) use ($message)
+  {
     if (isset($errors) && count($errors) > 0) {
       echo $message;
       foreach($errors as $error) {

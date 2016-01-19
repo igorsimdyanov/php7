@@ -6,7 +6,8 @@
     12 => "Декабрь"
   ];
   // Возвращает название месяца по его номеру. Нумерация начинается с 1! 
-  function getMonthName($n) { 
+  function getMonthName($n)
+  { 
     global $monthes;
     return $monthes[$n];
   }

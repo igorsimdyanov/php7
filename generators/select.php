@@ -1,5 +1,6 @@
 <?php ## Извлекаем только четные элементы.
-  function select($arr, $callback) {
+  function select($arr, $callback)
+  {
     foreach($arr as $value) {
       if($callback($value)) yield $value;
     }

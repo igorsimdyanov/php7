@@ -1,12 +1,14 @@
 <?php ## Использование call_user_func_array().
   // Вывод всех параметров на отдельных строках.
-  function myecho(...$str) {  
+  function myecho(...$str)
+  {  
     foreach ($str as $v) {
       echo "$v<br />\n"; // выводим элемент
     }
   }
   // То же самое, но предваряет параметры указанным числом пробелов.
-  function tabber($spaces, ...$planets) {
+  function tabber($spaces, ...$planets)
+  {
     // Подготавливаем аргументы для myecho().
     $new = [];
     foreach ($planets as $planet) {

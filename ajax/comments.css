@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+#form {
+  padding: 10px;
+  background: #ddd;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px #bdbcb0;
+  margin: 10px 0 10px 0;
+}
+#form div {
+  margin-bottom: 5px;
+}
+#info {
+  padding: 10px;
+  background: #ddd;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px #bdbcb0;
+}
+#info p {
+  clear: both;
+}
+.hidden {
+  display: none;
+}
+
+/* Оформление */ 
+#form {
+  height: 180px;
+}
+#form p {
+  display: relative;
+  clear: both;
+}
+p .ttl {
+  width: 100px;
+  float: left;
+  text-align: right;
+}
+p .ttl {
+  font-family: Verdana, sans-serif;
+  font-size: 13px;
+}
+.fld {
+  float: left;
+  margin-bottom: 3px;
+  padding-left: 10px;
+}
+#nickname, #content {
+  width: 400px;
+}
+
+.author, .date {
+  font-weight: bold;
+}
+.date {
+  padding-left: 10px;
+}
+.content {
+  display: block;  
+  padding-bottom: 10px;
+}

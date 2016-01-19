@@ -1,5 +1,6 @@
 <?php ## Анонимная функция.
-  $myecho = function (...$str) {  
+  $myecho = function (...$str)
+  {  
     foreach ($str as $v) {
       echo "$v<br />\n"; // выводим элемент
     }

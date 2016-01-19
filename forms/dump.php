@@ -2,6 +2,7 @@
 <html lang="ru">
 <head>
   <title>Выводит все глобальные переменные</title>
+  <meta charset='utf-8'>
 </head>
 <body>
   <pre>

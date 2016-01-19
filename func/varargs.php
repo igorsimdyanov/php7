@@ -1,5 +1,6 @@
 <?php ## Переменное число параметров функции (современный способ).
-  function myecho(...$planets) {  
+  function myecho(...$planets)
+  {  
     foreach ($planets as $v) {
       echo "$v<br />\n"; // выводим элемент
     }

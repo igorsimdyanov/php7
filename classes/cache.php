@@ -1,17 +1,20 @@
 <?php ## Локальное кэширование ресурса по идентификатору.
-  class FileLogger {
+  class FileLogger
+  {
     // Массив всех созданных объектов-журналов.
     static public $loggers = [];
     // Время создания объекта.
     private $time;
     // Закрытый конструктор: создание объектов извне запрещено!
-    private function __construct($fname) {
+    private function __construct($fname)
+    {
       // Запоминаем время создания этого объекта.
       $this->time = microtime(true);
     }
     // Открытый метод, предназначенный для создания объектов класса.
     // Создать новый объект можно только с его помощью!
-    public static function create($fname) {
+    public static function create($fname)
+    {
       // Вначале проверяем: возможно, объект для указанного имени
       // файла уже существует? Тогда его и возвращаем.
       if (isset(self::$loggers[$fname])) 

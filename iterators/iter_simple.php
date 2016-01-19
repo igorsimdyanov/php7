@@ -1,5 +1,6 @@
 <?php ## Стандартное поведение foreach.
-  class Monolog {
+  class Monolog
+  {
     public    $first  = "It's him.";
     protected $second = "The Anomaly.";
     private   $third  = "Do we proceed?";

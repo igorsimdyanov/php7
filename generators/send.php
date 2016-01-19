@@ -1,5 +1,6 @@
 <?php ## Отправка данных генератору методом send()
-  function block() {
+  function block()
+  {
     while(true) {
       $string = yield;
       echo $string;

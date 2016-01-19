@@ -2,7 +2,8 @@
   // Корректно кодирует все заголовки в письме $mail с использованием 
   // метода base64. Кодировка письма определяется автоматически на основе
   // заголовка Content-type. Возвращает полученное письмо.
-  function mailenc($mail) {
+  function mailenc($mail)
+  {
     // Разделяем тело сообщения и заголовки.
     list ($head, $body) = preg_split("/\r?\n\r?\n/s", $mail, 2);
     // Определяем кодировку письма по заголовку Content-type.
@@ -25,7 +26,8 @@
   // включающую E-mail (адреса E-mail обрамляют символами < и >).
   // Если в строке нет ни одного недопустимого символа, преобразование
   // не производится.
-  function mailenc_header($header, $encoding = 'UTF-8') {
+  function mailenc_header($header, $encoding = 'UTF-8')
+  {
     return preg_replace_callback(
       '/([\x7F-\xFF][^<>\r\n]*)/s',
       function ($p) use($encoding) {

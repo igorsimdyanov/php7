@@ -1,5 +1,6 @@
 <?php ## Обработка каждого элемента массива.
-  function collect($arr, $callback) {
+  function collect($arr, $callback)
+  {
     foreach($arr as $value) {
       yield $callback($value);
     }

@@ -1,20 +1,25 @@
 <?php ## Деструкторы и исключения.
   // Класс, комментирующий операции со своим объектом.
-  class Orator {
+  class Orator
+  {
     private $name;
-    function __construct($name) {
+    function __construct($name)
+    {
       $this->name = $name;
       echo "Создан объект {$this->name}.<br />";
     }
-    function __destruct() {
+    function __destruct()
+    {
       echo "Уничтожен объект {$this->name}.<br />";
     }
   }
-  function outer() { 
+  function outer()
+  { 
     $obj = new Orator(__METHOD__);
     inner(); 
   } 
-  function inner() { 
+  function inner()
+  { 
     $obj = new Orator(__METHOD__);
     echo "Внимание, вбрасывание!<br />";
     throw new Exception("Hello!");

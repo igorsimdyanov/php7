@@ -1,6 +1,7 @@
 <?php ## Функция для вывода содержимого переменной.
   // Распечатывает дамп переменной на экран.
-  function dumper($obj) {
+  function dumper($obj)
+  {
     echo 
       "<pre>",
         htmlspecialchars(dumperGet($obj)),
@@ -10,7 +11,8 @@
   // Возвращает строку - дамп значения переменной в древовидной форме 
   // (если это массив или объект). В переменной $leftSp хранится 
   // строка с пробелами, которая будет выводиться слева от текста.
-  function dumperGet(&$obj, $leftSp = "") { 
+  function dumperGet(&$obj, $leftSp = "")
+  { 
     if (is_array($obj)) {
       $type = "Array[".count($obj)."]"; 
     } elseif (is_object($obj)) {

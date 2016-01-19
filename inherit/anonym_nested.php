@@ -1,18 +1,23 @@
 <?php ## Использование анонимных классов
-  class Container {
+  class Container
+  {
     private $title = "Класс Container";
     protected $id = 1;
 
-    public function anonym() {
-      return new class($this->title) extends Container {
+    public function anonym()
+    {
+      return new class($this->title) extends Container
+      {
 
         private $name;
 
-        public function __construct($title) {
+        public function __construct($title)
+        {
           $this->name = $title;
         }
 
-        public function print() {
+        public function print()
+        {
           echo "{$this->name} ({$this->id})";
         }
       };

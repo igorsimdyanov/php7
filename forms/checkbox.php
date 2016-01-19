@@ -2,6 +2,7 @@
 <html lang="ru">
 <head>
   <title>Гарантированный прием значений от флажков</title>
+  <meta charset='utf-8'>
 </head>
 <body>
   <?php

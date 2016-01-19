@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+#list {
+  float: left;
+  padding: 10px;
+  background: #ddd;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px #bdbcb0;
+  margin-right: 10px;
+}
+#list div {
+  margin-bottom: 5px;
+}
+#list div a {
+  color: #333;
+  text-decoration: none;
+}
+#list div a:hover {
+  text-decoration: underline;
+}
+#info {
+  float: left;
+  padding: 10px;
+  background: #ddd;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px #bdbcb0;
+}
+#info p span.p {
+  display: block;
+  float: left;
+  width: 70px;
+  text-align: right;
+  padding-bottom: 5px;
+}
+#info p span.r {
+  display: block;
+  float: left;
+  text-align: left;
+  padding: 0px 0px 5px 5px;
+}
+#info p {
+  clear: both;
+}
+.hidden {
+  display: none;
+}

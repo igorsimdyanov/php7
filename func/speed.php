@@ -14,14 +14,15 @@
   test("takeValAndModif");
   test("takeRefAndModif");
 
-  function test($func) {
+  function test($func)
+  {
      // Создаем большой массив.
-     $a = array();
+     $a =[];
      for ($i = 1; $i <= 100000; $i++) $a[$i] = $i;
      // Ждем "переключения" секунды (для точности).
      for ($t = time(); $t == time(); );
      // Выполняем функцию в течение ровно 1 секунды.
      for ($N = 0, $t = time(); time() == $t; $N++) $func($a);
-     printf("<tt>$func</tt> took %d itr/sec<br>", $N);
+     printf("<tt>$func</tt> took %d itr/sec<br />", $N);
   }
 ?>

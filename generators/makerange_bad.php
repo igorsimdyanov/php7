@@ -1,5 +1,6 @@
 <?php ## Не экономное расходование памяти
-  function crange($size) {
+  function crange($size)
+  {
     $arr = [];
     for($i = 0; $i < $size; $i++) {
       $arr[] = $i;

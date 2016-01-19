@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang='ru'>
+  <head>
+    <title>Использование библиотеки jQuery</title>
+    <meta charset='utf-8'>
+    <script type="text/javascript" src="jquery.js" ></script>
+    <script type="text/javascript">
+    $(function() {
+      $("p").css("color", "blue");
+      $(".green").css("color", "green");
+      $("#id").css("color", "red");
+    });
+    </script>
+  </head>
+  <body>
+    <p>Тест будет окрашен в синий цвет.</p>
+    <p class='green'>Тест будет окрашен в зеленый цвет.</p>
+    <div class='green'>Тест будет окрашен в зеленый цвет.</div>
+    <p id='id'>Тест будет окрашен в красный цвет.</p>
+    <p>Тест будет окрашен в синий цвет.</p>
+  </body>
+</html>

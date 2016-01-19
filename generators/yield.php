@@ -1,5 +1,6 @@
 <?php ## Исследуем yield.
-  function generator() {
+  function generator()
+  {
     echo "перед первым yield<br />";
     yield 1;
     echo "перед вторым yield<br />";

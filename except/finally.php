@@ -1,6 +1,7 @@
 <?php ## Инструкция try во вложенных функциях.
   function eatThis() { throw new Exception("bang-bang!"); }
-  function hello() {
+  function hello()
+  {
     echo "Все, что имеет начало, ";
     try {
       eatThis();

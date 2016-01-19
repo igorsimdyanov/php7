@@ -1,5 +1,6 @@
 <?php ## Перехват обращений к членам класса.
-  class Hooker {
+  class Hooker
+  {
     // Обычное свойство класса.
     public  $opened = 'opened';
     // Обычный метод класса.
@@ -7,19 +8,22 @@
     // В этом массиве будут храниться все "виртуальные" свойства.
     private $vars   = array();  
     // Перехват получения значения свойства.
-    public function __get($name) {
+    public function __get($name)
+    {
       echo "Перехват: получаем значение $name.<br />";
       // Возвращаем null, если "виртуальное" свойство еще не определено.
       return isset($this->vars[$name])? $this->vars[$name] : null;
     }
     // Перехват установки значения свойства.
-    public function __set($name, $value) {
+    public function __set($name, $value)
+    {
       echo "Перехват: устанавливаем значение $name равным '$value'.<br />";
       //Перед записью значения удаляем пробелы.
       return $this->vars[$name] = trim($value);
     }
     // Перехват вызова несуществующего метода.
-    public function __call($name, $args) {
+    public function __call($name, $args)
+    {
       echo "Перехват: вызываем $name с аргументами: ";
       var_dump($args);
       return $args[0];

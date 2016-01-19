@@ -1,5 +1,6 @@
 <?php ## Передача анонимной функции в качестве параметра.
-  function tabber($spaces, $echo, ...$planets) {
+  function tabber($spaces, $echo, ...$planets)
+  {
     // Подготавливаем аргументы для myecho().
     $new = [];
     foreach ($planets as $planet) {

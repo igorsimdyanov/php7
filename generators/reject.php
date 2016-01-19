@@ -1,5 +1,6 @@
 <?php ## Извлекаем только четные элементы.
-  function reject($arr, $callback) {
+  function reject($arr, $callback)
+  {
     foreach($arr as $value) {
       if(!$callback($value)) yield $value;
     }

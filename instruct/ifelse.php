@@ -2,6 +2,7 @@
 <html lang="ru">
 <head>
   <title>Альтернативный синтаксис if-else.</title>
+  <meta charset='utf-8'>
 </head>
 <body>
 <?php if (isset($_REQUEST['go'])):?>

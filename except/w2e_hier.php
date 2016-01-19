@@ -1,7 +1,8 @@
 <?php ## Иерархия ошибок.
   require_once "PHP/Exceptionizer.php";
   suffer();
-  function suffer() {
+  function suffer()
+  {
     $w2e = new PHP_Exceptionizer(E_ALL);
     try {
       // Генерируем ошибку.

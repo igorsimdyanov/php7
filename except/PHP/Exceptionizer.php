@@ -8,11 +8,13 @@
  * E_ERROR, E_PARSE, E_CORE_ERROR, E_CORE_WARNING, E_COMPILE_ERROR,
  * E_COMPILE_WARNING
  */
-class PHP_Exceptionizer {
+class PHP_Exceptionizer
+{
   // Создает новый объект-перехватчик и подключает его к стеку
   // обработчиков ошибок PHP (используется идеология "выделение 
   // ресурса есть инициализация").
-  public function __construct($mask=E_ALL, $ignoreOther=false) {
+  public function __construct($mask = E_ALL, $ignoreOther = false)
+  {
     $catcher = new PHP_Exceptionizer_Catcher();
     $catcher->mask = $mask;
     $catcher->ignoreOther = $ignoreOther;
@@ -21,7 +23,8 @@ class PHP_Exceptionizer {
   // Вызывается при уничтожении объекта-перехватчика (например,
   // при выходе его из области видимости функции). Восстанавливает
   // предыдущий обработчик ошибок.
-  public function __destruct() {
+  public function __destruct()
+  {
     restore_error_handler();
   }
 }
@@ -33,7 +36,8 @@ class PHP_Exceptionizer {
  * счетчик ссылок на объект, а он должен остаться неизменным, чтобы в 
  * программе всегда оставалась ровно одна ссылка.
  */
-class PHP_Exceptionizer_Catcher {
+class PHP_Exceptionizer_Catcher
+{
   // Битовые флаги предупреждений, которые будут перехватываться.
   public $mask = E_ALL;
   // Признак, нужно ли игнорировать остальные типы ошибок, или же
@@ -42,7 +46,8 @@ class PHP_Exceptionizer_Catcher {
   // Предыдущий обработчик ошибок.
   public $prevHdl = null;
   // Функция-обработчик ошибок PHP.
-  public function handler($errno, $errstr, $errfile, $errline) {
+  public function handler($errno, $errstr, $errfile, $errline)
+  {
     // Если error_reporting нулевой, значит, использован оператор @,
     // и все ошибки должны игнорироваться.
     if (!error_reporting()) return;
@@ -86,8 +91,9 @@ class PHP_Exceptionizer_Catcher {
 /**
  * Базовый класс для всех исключений, полученных в результате ошибки PHP.
  */
-abstract class PHP_Exceptionizer_Exception extends Exception {
-  public function __construct($no=0, $str=null, $file=null, $line=0) {
+abstract class PHP_Exceptionizer_Exception extends Exception
+{
+  public function __construct($no = 0, $str = null, $file = null, $line = 0) {
     parent::__construct($str, $no);
     $this->file = $file;
     $this->line = $line;

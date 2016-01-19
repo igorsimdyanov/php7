@@ -6,8 +6,7 @@
                   'php'
                 );
 
-  foreach($filter as $file)
-  {
+  foreach($filter as $file) {
     echo $file."<br />";
   }
 ?>

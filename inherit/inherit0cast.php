@@ -5,7 +5,8 @@
   // "умеет" и FileLoggerDebug0...
   croak($logger, "Hasta la vista.");
   // Функция принимает параметр типа FileLogger.
-  function croak(FileLogger $l, $msg) {
+  function croak(FileLogger $l, $msg)
+  {
     $l->log($msg);
     exit();
   }

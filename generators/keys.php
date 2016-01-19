@@ -1,5 +1,6 @@
 <?php ## Использование ключей.
-  function collect($arr, $callback) {
+  function collect($arr, $callback)
+  {
     foreach($arr as $key => $value) {
       yield $key => $callback($value);
     }

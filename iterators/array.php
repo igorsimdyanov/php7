@@ -5,35 +5,41 @@
    * зрения данного класса выглядят идентичными (в отличие от стандартных
    * массивов PHP, в которых они различаются).
    */
-  class InsensitiveArray implements ArrayAccess {
+  class InsensitiveArray implements ArrayAccess
+  {
     // Здесь будем хранить массив элементов в нижнем регистре.
-    private $a = array();
+    private $a = [];
     // Возвращает true, если элемент $offset существует.
-    public function offsetExists($offset) { 
+    public function offsetExists($offset)
+    { 
       $offset = strtolower($offset);  // переводим в нижний регистр
       $this->log("offsetExists('$offset')");
       return isset($this->a[$offset]);
     }
     // Возвращает элемент по его ключу.
-    public function offsetGet($offset) { 
+    public function offsetGet($offset)
+    { 
       $offset = strtolower($offset);
       $this->log("offsetGet('$offset')");
       return $this->a[$offset]; 
     }
     // Устанавливает новое значение элемента по его ключу.
-    public function offsetSet($offset, $data) { 
+    public function offsetSet($offset, $data)
+    { 
       $offset = strtolower($offset);
       $this->log("offsetSet('$offset', '$data')");
       $this->a[$offset] = $data;
     }
     // Удаляет элемент с указанным ключом.
-    public function offsetUnset($offset) { 
+    public function offsetUnset($offset)
+    { 
       $offset = strtolower($offset);
       $this->log("offsetUnset('$offset')");
       unset($this->array[$offset]); 
     }
     // Служебная функция для демонстрации возможностей.
-    public function log($str) {
+    public function log($str)
+    {
       echo "$str<br>";
     }
   }

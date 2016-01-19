@@ -2,11 +2,13 @@
   // Вначале подключаем "базовый" класс.
   require_once "File/Logger.php";
   // Класс, добавляющий в FileLogger новую функциональность.
-  class FileLoggerDebug extends FileLogger {
+  class FileLoggerDebug extends FileLogger
+  {
     // Конструктор нового класса. Просто переадресует вызов
     // конструктору базового класса, передавая немного другие
     // параметры.
-    public function __construct($fname) { 
+    public function __construct($fname)
+    { 
       // Такой синтаксис используется для вызова методов базового класса.
       // Обратите внимание, что ссылки $this нет! Она подразумевается.
       parent::__construct(basename($fname), $fname);
@@ -14,7 +16,8 @@
       // класса, если они будут.
     }
     // Добавляем новый метод.
-    public function debug($s, $level = 0) {
+    public function debug($s, $level = 0)
+    {
       $stack = debug_backtrace();
       $file = basename($stack[$level]['file']);
       $line = $stack[$level]['line'];

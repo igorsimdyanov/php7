@@ -2,22 +2,31 @@
   // Возвращает полное имя файла временного хранилища сессии.
   // В случае, если нужно изменить тот каталог, в котором должны 
   // храниться сессии, достаточно поменять только эту функцию
-  function ses_fname($key) {
+  function ses_fname($key)
+  {
     return dirname(__FILE__)."/sessiondata/".session_name()."/$key"; 
   }
   // Заглушки - эти функции просто ничего не делают
-  function ses_open($save_path, $ses_name) { return true; }
-  function ses_close() { return true; }
+  function ses_open($save_path, $ses_name)
+  {
+    return true;
+  }
+  function ses_close()
+  {
+    return true;
+  }
 
   // Чтение данных из временного хранилища
-  function ses_read($key) {
+  function ses_read($key)
+  {
     // Получаем имя файла и открываем файл.
     $fname = ses_fname($key);
     return @file_get_contents($fname);
   }
 
   // Запись данных сессии во временное хранилище
-  function ses_write($key, $val) {
+  function ses_write($key, $val)
+  {
     $fname = ses_fname($key);
     // Сначала создаем все каталоги (в случае, если они уже есть,
     // игнорируем сообщения об ошибке)
@@ -29,12 +38,14 @@
   }
 
   // Вызывается при уничтожении сессии
-  function ses_destroy($key) {
+  function ses_destroy($key)
+  {
     return @unlink(ses_fname($key));
   }
 
   // Сборка мусора - ищем все старые файлы и удаляем их
-  function ses_gc($maxlifetime) {
+  function ses_gc($maxlifetime)
+  {
     $dir = ses_fname(".");
     // Получаем доступ к каталогу текущей группы сессии.
     foreach (glob("$dir/*") as $fname) {

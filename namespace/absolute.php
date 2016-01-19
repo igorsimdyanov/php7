@@ -1,7 +1,8 @@
 <?php ## Доступ к глобальному пространству имен
   namespace PHP7;
 
-  function strlen($str) {
+  function strlen($str)
+  {
     return count(str_split($str));
   }
   // Или даже так

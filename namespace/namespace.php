@@ -2,20 +2,23 @@
   namespace PHP7;
 
   // Отладочная функция
-  function debug($obj) {
+  function debug($obj)
+  {
     echo "<pre>";
     print_r($obj);
     echo "</pre>";
   }
 
   // Класс страницы
-  class Page {
+  class Page
+  {
     // заголовок
     protected $title;
     // содержимое
     protected $content;
     // Конструктор класса
-    public function __construct($title = '', $content = '') {
+    public function __construct($title = '', $content = '')
+    {
       $this->title = $title;
       $this->content = $content;
     }

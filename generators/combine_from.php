@@ -1,9 +1,11 @@
 <?php ## Использование yield from.
-  function square($value) {
+  function square($value)
+  {
     yield $value * $value;
   }
 
-  function even_square($arr) {
+  function even_square($arr)
+  {
     foreach($arr as $value) {
       if($value % 2 == 0) yield from square($value);
     }

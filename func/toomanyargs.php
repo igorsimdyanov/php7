@@ -1,5 +1,6 @@
 <?php ## Использование ...
-  function toomanyargs($fst, $snd, $thd, $fth) {
+  function toomanyargs($fst, $snd, $thd, $fth)
+  {
     echo "Первый параметр: $fst<br />";
     echo "Второй параметр: $snd<br />";
     echo "Третий параметр: $thd<br />";

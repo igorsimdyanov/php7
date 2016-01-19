@@ -1,6 +1,8 @@
 <?php ## Использование анонимных классов
-  class Dumper {
-    public static function print($obj) {
+  class Dumper
+  {
+    public static function print($obj)
+    {
       print_r($obj);
     }
   }

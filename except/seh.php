@@ -10,7 +10,8 @@
   }
   echo "Конец программы.<br />";
   // Функция-обработчик.
-  function handler($num, $str) {
+  function handler($num, $str)
+  {
     // Код обработчика.
     echo "Ошибка: $str<br />";
     exit();

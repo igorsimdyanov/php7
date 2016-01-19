@@ -2,17 +2,20 @@
   // Вначале подключаем "базовый" класс.
   require_once "File/Logger.php";
   // Класс, добавляющий в FileLogger новую функциональность.
-  class FileLoggerDebug0 {
+  class FileLoggerDebug0
+  {
     // Объект "базового" класса FileLogger.
     private $logger; 
     // Конструктор нового класса. Создает объект FileLogger.
-    public function __construct($name, $fname) { 
+    public function __construct($name, $fname)
+    { 
       $this->logger = new FileLogger($name, $fname);
       // Здесь можно проинициализировать другие свойства текущего
       // класса, если они будут.
     }
     // Добавляем новый метод.
-    public function debug($s, $level = 0) {
+    public function debug($s, $level = 0)
+    {
       $stack = debug_backtrace();
       $file = basename($stack[$level]['file']);
       $line = $stack[$level]['line'];

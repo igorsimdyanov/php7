@@ -4,7 +4,8 @@
   // Функция, генерирующая исключение.
   function eatThis() { throw new HeadshotException("bang-bang!"); }
   // Функция с кодом-финализатором.
-  function action() {
+  function action()
+  {
     echo "Все, что имеет начало, ";
     try {
       // Внимание, опасный момент!

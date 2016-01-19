@@ -1,5 +1,6 @@
 <?php ## Возврат массива.
-  function silly() {  
+  function silly()
+  {  
     return [1, 2, 3];
   }
   // присваивает массиву значение array(1,2,3)

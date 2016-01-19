@@ -1,5 +1,6 @@
 <?php ## Использование var_export(). 
-  class SomeClass {
+  class SomeClass
+  {
     private $x = 100;
   }
   $a = array(1, array ("Programs hacking programs. Why?", "д'Артеньян"));

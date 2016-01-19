@@ -2,6 +2,7 @@
 <html lang="ru">
 <head>
   <title>Модель сценария для обработки формы</title>
+  <meta charset='utf-8'>
 </head>
 <body>
   <?php

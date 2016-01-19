@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang='ru'>
+  <head>
+    <title>Назначение обработчика средствами jQuery.</title>
+    <meta charset='utf-8'>
+    <script type="text/javascript" src="jquery.js" ></script>
+    <script type="text/javascript">
+    $(function() {
+      // Меняем указатель курсора
+      $("#id_text").css("cursor", "pointer");
+      // Назначаем обработчик события click
+      $("#id_text").on("click", function(){
+        if($("#id_text").css("color") == "rgb(0, 0, 255)")
+          // Если цвет синий - меняем на красный
+          $("#id_text").css("color", "rgb(255, 0, 0)");
+        else
+          // В противном случае назначаем синий цвет
+          $("#id_text").css("color", "rgb(0, 0, 255)");
+      });
+    });
+    </script>
+  </head>
+  <body>
+    <p id="id_text">Тест меняет цвет.</p>
+  </body>
+</html>

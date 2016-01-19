@@ -1,6 +1,7 @@
 <?php ## Особенности инструкции global.
   $a = 100;
-  function test() { 
+  function test()
+  { 
     global $a;
     unset($a);
   }

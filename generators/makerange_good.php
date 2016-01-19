@@ -1,5 +1,6 @@
 <?php ## Экономное расходование памяти
-  function crange($size) {
+  function crange($size)
+  {
     for($i = 0; $i < $size; $i++) {
       yield $i;
     }

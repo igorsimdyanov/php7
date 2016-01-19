@@ -1,7 +1,8 @@
 <?php ## Составление URL по массивут параметров.
   // Составляет URL по частям из массива $parsed.
   // Функция обратна к parse_url().
-  function http_build_url($parsed) {
+  function http_build_url($parsed)
+  {
     if (!is_array($parsed)) return false;
     // Задан протокол?
     if (isset($parsed['scheme'])) {

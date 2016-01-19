@@ -2,6 +2,7 @@
 <html lang="ru">
 <head>
   <title>Пример функции и ее использования</title>
+  <meta charset='utf-8'>
 </head>
 <body>
 <?php
@@ -10,7 +11,8 @@
   // ключ массива, а $value - очередное значение. Если задан
   // также и второй параметр, то у соответствующего тэга option
   // проставляется атрибут selected.
-  function selectItems($items, $selected=0) { 
+  function selectItems($items, $selected = 0)
+  { 
     $text = "";
     foreach ($items as $k => $v) { 
       if ($k === $selected)

@@ -2,8 +2,7 @@
   // Открываем каталог
   $cat = dir(".");
   // Читаем содержимое каталога
-  while(($file = $cat->read()) !== false)
-  {
+  while(($file = $cat->read()) !== false) {
     echo $file."<br />";
   }
   // Закрываем каталог

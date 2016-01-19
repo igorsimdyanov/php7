@@ -4,7 +4,8 @@
   use \PHP7\Tag as Tag;
 
   // Класс страницы
-  class Page {
+  class Page
+  {
     // Подключаем трейты
     use Seo, Tag;
 
@@ -13,7 +14,8 @@
     // содержимое
     protected $content;
     // Конструктор класса
-    public function __construct($title = '', $content = '') {
+    public function __construct($title = '', $content = '')
+    {
       $this->title = $title;
       $this->content = $content;
     }

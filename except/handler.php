@@ -1,6 +1,7 @@
 <?php ## Перехват ошибок и предупреждений.
   // Определяем новую функцию-обработчик.
-  function myErrorHandler($errno, $msg, $file, $line) {
+  function myErrorHandler($errno, $msg, $file, $line)
+  {
     // Если используется @, ничего не делать.
     if (error_reporting() == 0) return;
     // Иначе - выводим сообщение.

@@ -1,5 +1,6 @@
 <?php ## Статические переменные.
-  function selfcount() {
+  function selfcount()
+  {
     static $count = 0;
     $count++;
     echo $count;

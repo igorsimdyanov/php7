@@ -3,7 +3,8 @@
   // возвращает их список. В необязательный параметр $nOrigWords 
   // помещается исходное число слов в тексте, которое было до 
   // "фильтрации" дубликатов.
-  function getUniques($text, &$nOrigWords = false) { 
+  function getUniques($text, &$nOrigWords = false)
+  { 
     // Сначала получаем все слова в тексте.
     $words = preg_split("/([^[:alnum:]]|['-])+/s", $text);
     $nOrigWords = count($words);

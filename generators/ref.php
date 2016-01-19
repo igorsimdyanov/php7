@@ -1,5 +1,6 @@
 <?php ## Возврат значения по ссылке
-  function &reference() {
+  function &reference()
+  {
     $value = 3;
     while ($value > 0) {
       yield $value;

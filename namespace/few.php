@@ -1,22 +1,27 @@
 <?php ## Использование пространства имен в одном файле
-  namespace PHP7\functions {
+  namespace PHP7\functions
+  {
     // Отладочная функция
-    function debug($obj) {
+    function debug($obj)
+    {
       echo "<pre>";
       print_r($obj);
       echo "</pre>";
     }
   }
 
-  namespace PHP7\classes {
+  namespace PHP7\classes
+  {
     // Класс страницы
-    class Page {
+    class Page
+    {
       // заголовок
       protected $title;
       // содержимое
       protected $content;
       // Конструктор класса
-      public function __construct($title = '', $content = '') {
+      public function __construct($title = '', $content = '')
+      {
         $this->title = $title;
         $this->content = $content;
       }

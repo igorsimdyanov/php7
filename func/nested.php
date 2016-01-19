@@ -1,5 +1,6 @@
 <?php ## Вложенные функции.
-  function father($a) { 
+  function father($a)
+  { 
     echo $a, "<br />";
     function child($b) { 
       echo $b + 1, "<br />";
