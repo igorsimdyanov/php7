@@ -8,7 +8,7 @@
 .idea
 .DS_Store
 /composer/monolog/vendor/
-/composer/pager_user/vendor/
+/composer/pager_use/vendor/
 /composer/phinx/vendor/
 /composer/psysh/vendor/
 /phpdocs/phpdocs/vendor/

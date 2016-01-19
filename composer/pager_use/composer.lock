@@ -1,0 +1,65 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "ba9515b8d1189b9b20a94bb00800481d",
+    "content-hash": "b8593b6e059f6e0fb6624c090a6bfae0",
+    "packages": [
+        {
+            "name": "igorsimdyanov/pager",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/igorsimdyanov/pager.git",
+                "reference": "cb873213f4010640e8a1fa76b8679bc4a8569f05"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/igorsimdyanov/pager/zipball/cb873213f4010640e8a1fa76b8679bc4a8569f05",
+                "reference": "cb873213f4010640e8a1fa76b8679bc4a8569f05",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ISPager\\": "src/ISPager"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Dmitry Koterov",
+                    "email": "dmitry.koterov@gmail.com"
+                },
+                {
+                    "name": "Igor Simdyanov",
+                    "email": "igorsimdyanov@gmail.com"
+                }
+            ],
+            "description": "A library to split results into multiple pages",
+            "homepage": "https://github.com/igorsimdyanov/pager",
+            "keywords": [
+                "pager",
+                "pagination",
+                "paginator"
+            ],
+            "time": "2016-01-02 10:44:30"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
