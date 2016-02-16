@@ -8,6 +8,6 @@
   }
 
   $block = block();
-  $block->send("Hello world!<br />");
-  $block->send("Hello PHP!<br />");
+  $block->send("Hello, world!<br />");
+  $block->send("Hello, PHP!<br />");
 ?>

@@ -15,12 +15,12 @@
                 'zh', 'z', 'i', 'y', 'k', 'l', 'm',
                 'n', 'o', 'p', 'r', 's', 't', 'u',
                 'f', 'h', 'ch', 'ts', 'sh', 'shch', '\'',
-                'i', '', 'e', 'yu', 'ya',
+                'y', '', 'e', 'yu', 'ya',
                 'A', 'B', 'V', 'G', 'D', 'E', 'Yo',
                 'Zh', 'Z', 'I', 'Y', 'K', 'L', 'M',
                 'N', 'O', 'P', 'R', 'S', 'T', 'U',
                 'F', 'H', 'CH', 'Ts', 'Sh', 'Shch', '\'',
-                'I', '', 'E', 'Yu', 'Ya'];
+                'Y', '', 'E', 'Yu', 'Ya'];
 
     return str_replace($pattern, $replace, $st);
   }

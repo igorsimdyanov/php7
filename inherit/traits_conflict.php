@@ -1,4 +1,4 @@
-<?php ## Порядок перегрузки методов
+<?php ## Разрешение конфликтов
   trait Tag
   {
     public function tags()

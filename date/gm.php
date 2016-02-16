@@ -1,4 +1,4 @@
-<?php ## Работа с временем по GMT.
+<?php ## Работа со временем по GMT.
   // Вычисляет timestamp в Гринвиче, который соответствует
   // локальному timestamp-форматуузначению.
   function local2gm($localStamp = false) {

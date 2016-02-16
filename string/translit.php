@@ -2,7 +2,7 @@
   function transliterate($st) {
     $st = strtr($st, 
       "абвгдежзийклмнопрстуфыэАБВГДЕЖЗИЙКЛМНОПРСТУФЫЭ",
-      "abvgdegziyklmnoprstufieABVGDEGZIYKLMNOPRSTUFIE"
+      "abvgdegziyklmnoprstufyeABVGDEGZIYKLMNOPRSTUFYE"
     );
     $st = strtr($st, array(
       'ё'=>"yo",    'х'=>"h",  'ц'=>"ts",  'ч'=>"ch", 'ш'=>"sh",
