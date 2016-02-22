@@ -1,4 +1,4 @@
-<?php ## Использование метода getResultCode().
+<?php ## Использование метода getResultCode()
   require_once("connect.php");
 
   if (!($key = $m->get('key'))) {

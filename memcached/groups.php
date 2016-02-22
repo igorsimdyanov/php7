@@ -1,4 +1,4 @@
-<?php ## Группировка ключей.
+<?php ## Группировка ключей
   require_once("connect_multi.php");
 
   $arr = ["first", "second", "third", "fourth", "fifth",

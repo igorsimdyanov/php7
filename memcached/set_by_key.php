@@ -1,4 +1,4 @@
-<?php ## Установка значений методом setByKey().
+<?php ## Установка значений методом setByKey()
   require_once("connect_multi.php");
 
   $arr = ["first", "second", "third", "fourth", "fifth",

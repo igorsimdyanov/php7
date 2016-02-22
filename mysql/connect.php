@@ -1,4 +1,4 @@
-<?php ## Соединение с базой данных.
+<?php ## Обработка ошибки соединения с базой данных
   try {
     $pdo = new PDO(
       'mysql:host=localhost;dbname=test',

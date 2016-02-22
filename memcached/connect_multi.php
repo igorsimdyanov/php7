@@ -1,4 +1,4 @@
-<?php ## Соединение с memcached.
+<?php ## Соединение с memcached
   $m = new Memcached();
   $m->addServers([
     ['localhost', 11211, 10],
