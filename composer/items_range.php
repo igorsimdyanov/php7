@@ -1,4 +1,4 @@
-<?php ## Использование представления ItemsRange.
+<?php ## Использование представления ItemsRange
   // Временная автозагрузка классов
   spl_autoload_register(function($class){
     require_once("pager/src/{$class}.php");

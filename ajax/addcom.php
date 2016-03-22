@@ -8,12 +8,10 @@
     if(!empty($_POST))
     {
       $error = [];
-      if(empty($_POST['nickname']))
-      {
+      if(empty($_POST['nickname'])) {
         $error[] = "Отстуствует автор";
       }
-      if(empty($_POST['content']))
-      {
+      if(empty($_POST['content'])) {
         $error[] = "Отстуствует сообщение";
       }
       // Если нет ошибок, помещаем сообщение

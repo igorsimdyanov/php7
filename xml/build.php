@@ -1,4 +1,4 @@
-<?php ## Формирование XML-файла.
+<?php ## Формирование XML-файла
   $content = '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"></rss>';
   $xml = new SimpleXMLElement($content);
   $rss = $xml->addChild('channel');

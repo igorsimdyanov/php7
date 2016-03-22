@@ -1,4 +1,4 @@
-<?php
+<?php ## Чтение XML-файла
   $content = file_get_contents('rss.xml');
   $rss = new SimpleXMLElement($content);
   echo $rss->channel->title."<br />"; // PHP

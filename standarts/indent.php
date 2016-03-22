@@ -1,4 +1,4 @@
-<?php ## Отступы - 4 пробела.
+<?php ## Отступы - 4 пробела
     function tabber($spaces, $echo, ...$planets)
     {
         // Подготавливаем аргументы для myecho()

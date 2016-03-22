@@ -1,4 +1,4 @@
-<?php ## Коллекция тэгов.
+<?php ## Коллекция тэгов
   $content = file_get_contents('rss.xml');
   $rss = new SimpleXMLElement($content);
   foreach($rss->channel->item as $item) {

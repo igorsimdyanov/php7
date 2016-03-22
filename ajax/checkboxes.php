@@ -1,4 +1,4 @@
-<?php ## Запоминание состояния флажков.
+<?php ## Запоминание состояния флажков
   // Инициируем сессию
   session_start();
 
@@ -29,7 +29,7 @@
   <body>
     <p>
       <input id="id1" type="checkbox" <?php echo checkbox("id1"); ?> />
-      <label for="id1">Присылать уведоление об ответе</label>
+      <label for="id1">Присылать уведомление об ответе</label>
     </p>
     <p>
       <input id="id2" type="checkbox" <?php echo checkbox("id2"); ?> />

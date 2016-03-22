@@ -1,4 +1,4 @@
-<?php ## Постраничная навигация таблицы languages.
+<?php ## Постраничная навигация таблицы languages
   // Временная автозагрузка классов
   spl_autoload_register(function($class){
     require_once("pager/src/{$class}.php");
