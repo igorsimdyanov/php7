@@ -7,5 +7,5 @@
     }
   }
   $generator = simple();
-  echo gettype($hello); // object
+  echo gettype($generator); // object
 ?>
