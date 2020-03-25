@@ -7,10 +7,11 @@
   // данная клетка календаря пуста).
   function makeCal($year, $month) {
     // Получаем номер дня недели для 1 числа месяца.
-    $wday = date('N');
+    $getdate = getdate(mktime(0, 0, 0, $month, 1, $year));
+    $wday = $getdate["wday"];
     // Начинаем с этого числа в месяце (если меньше нуля 
     // или больше длины месяца, тогда в календаре будет пропуск).
-    $n = - ($wday - 2);
+    $n = - ($wday != 0 ? $wday - 2 : 5);
     $cal = [];
     // Цикл по строкам.
     for ($y = 0; $y < 6; $y++) {
@@ -40,7 +41,7 @@
 
   // Формируем календарь на текущий месяц.
   $now = getdate();
-  $cal = makeCal($now['year'], $now['mon'] - 1);
+  $cal = makeCal($now['year'], $now['mon']);
 ?>
 <!DOCTYPE html>
 <html lang="ru">
