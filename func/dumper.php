@@ -24,7 +24,7 @@
     }
     $buf = $type; 
     $leftSp .= "    ";
-    for (Reset($obj); list($k, $v) = each($obj); ) {
+    foreach ($obj as $k => $v) {
       if ($k === "GLOBALS") continue;
       $buf .= "\n$leftSp$k => ".dumperGet($v, $leftSp);
     }
